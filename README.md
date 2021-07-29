@@ -1,1 +1,1 @@
-# msc-beatriz-r-correia
+# MSc code

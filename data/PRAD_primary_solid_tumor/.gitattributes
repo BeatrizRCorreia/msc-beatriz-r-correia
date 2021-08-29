@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data2_01_PRAD_RNASeq2GeneNorm-20160128.csv filter=lfs diff=lfs merge=lfs -text
+data2_01_PRAD_RNASeq2GeneNorm-20160128_transposed.csv filter=lfs diff=lfs merge=lfs -text
+data2_colData.csv filter=lfs diff=lfs merge=lfs -text
+data2_sampleMap.csv filter=lfs diff=lfs merge=lfs -text

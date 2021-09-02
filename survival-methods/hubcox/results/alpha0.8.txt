@@ -1,0 +1,248 @@
+[1] "---------------------------------------------------------------------------------------"
+[1] 1
+Time difference of 3.145938 mins
+[1] 2
+[1] "mais uma run successful :)"
+Time difference of 3.288258 mins
+[1] 3
+[1] "mais uma run successful :)"
+Time difference of 3.2014 mins
+[1] 4
+[1] "mais uma run successful :)"
+Time difference of 3.265808 mins
+[1] 5
+Time difference of 3.201066 mins
+[1] 6
+Time difference of 3.214313 mins
+[1] 7
+Time difference of 3.13897 mins
+[1] 8
+Time difference of 3.164103 mins
+[1] 9
+Time difference of 3.21045 mins
+[1] 10
+Time difference of 3.223067 mins
+[1] 11
+Time difference of 3.17449 mins
+[1] 12
+Time difference of 3.1909 mins
+[1] 13
+[1] "mais uma run successful :)"
+Time difference of 3.169787 mins
+[1] 14
+[1] "mais uma run successful :)"
+Time difference of 3.214799 mins
+[1] 15
+[1] "mais uma run successful :)"
+Time difference of 3.239438 mins
+[1] 16
+Time difference of 3.159397 mins
+[1] 17
+Time difference of 3.188695 mins
+[1] 18
+Time difference of 3.195469 mins
+[1] 19
+[1] "mais uma run successful :)"
+Time difference of 3.221354 mins
+[1] 20
+[1] "mais uma run successful :)"
+Time difference of 3.172837 mins
+[1] 21
+Time difference of 3.175527 mins
+[1] 22
+Time difference of 3.160758 mins
+[1] 23
+[1] "mais uma run successful :)"
+Time difference of 3.26605 mins
+[1] 24
+Time difference of 3.228861 mins
+[1] 25
+[1] "mais uma run successful :)"
+Time difference of 3.187863 mins
+[1] 26
+[1] "mais uma run successful :)"
+Time difference of 3.21707 mins
+[1] 27
+Time difference of 3.162026 mins
+[1] 28
+[1] "mais uma run successful :)"
+Time difference of 3.218043 mins
+[1] 29
+[1] "mais uma run successful :)"
+Time difference of 3.23207 mins
+[1] 30
+[1] "mais uma run successful :)"
+Time difference of 3.219931 mins
+[1] 31
+Time difference of 3.223995 mins
+[1] 32
+Time difference of 3.164993 mins
+[1] 33
+[1] "mais uma run successful :)"
+Time difference of 3.17159 mins
+[1] 34
+[1] "mais uma run successful :)"
+Time difference of 3.183848 mins
+[1] 35
+Time difference of 3.20898 mins
+[1] 36
+[1] "mais uma run successful :)"
+Time difference of 3.22149 mins
+[1] 37
+[1] "mais uma run successful :)"
+Time difference of 3.197395 mins
+[1] 38
+[1] "mais uma run successful :)"
+Time difference of 3.257861 mins
+[1] 39
+[1] "mais uma run successful :)"
+Time difference of 3.201561 mins
+[1] 40
+[1] "mais uma run successful :)"
+Time difference of 3.248177 mins
+[1] 41
+[1] "mais uma run successful :)"
+Time difference of 3.23273 mins
+[1] 42
+[1] "mais uma run successful :)"
+Time difference of 3.258494 mins
+[1] 43
+Time difference of 3.179609 mins
+[1] 44
+[1] "mais uma run successful :)"
+Time difference of 3.200538 mins
+[1] 45
+[1] "mais uma run successful :)"
+Time difference of 3.238096 mins
+[1] "nr of iterations to perform:"
+[1] 25
+[1] "nr of runs executed:"
+[1] 45
+[1] "nr of unsuccessful runs:"
+[1] 20
+[1] "genes selected with the nr of iterations they were selected:"
+        PGK1 LOC100128977       PPFIA3       SHCBP1 
+          25           21           21           17 
+[1] "---------------------------------------------------------"
+[1] "average nr of genes selected in successful runs:"
+nr.selected.genes 
+             3.76 
+[1] "standard deviation of the average nr of genes selected in successful runs:"
+nr.selected.genes 
+         1.449966 
+[1] "----- PVALUE TRAIN --------------------------------------"
+[1] "average pvalue train in successful runs:"
+pvalue.train 
+2.546906e-05 
+[1] "standard deviation of the average pvalue train:"
+pvalue.train 
+1.561244e-05 
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in statistically significant successful runs:"
+pvalue.train 
+2.546906e-05 
+[1] "nr of statistically significant pvalue train successful runs:"
+[1] 25
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in NON-statistically significant successful runs:"
+[1] NA
+[1] "nr of NON-statistically significant pvalue train successful runs:"
+[1] 0
+[1] "----- PVALUE TEST --------------------------------------"
+[1] "average pvalue test in successful runs:"
+pvalue.test 
+  0.2951608 
+[1] "standard deviation of the average pvalue test:"
+pvalue.test 
+  0.2097054 
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in statistically significant successful runs:"
+[1] NA
+[1] "nr of statistically significant pvalue test successful runs:"
+[1] 0
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in NON-statistically significant successful runs:"
+pvalue.test 
+  0.2951608 
+[1] "nr of NON-statistically significant pvalue test successful runs:"
+[1] 25
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue train:"
+$min.degree
+[1] 0.6
+
+$alpha
+[1] 0.8
+
+$nr.selected.genes
+[1] 4
+
+$list.of.genes
+[1] "LOC100128977" "PGK1"         "PPFIA3"       "SHCBP1"      
+
+$pvalue.train
+[1] 9.499031e-06
+
+$pvalue.test
+[1] 0.230476
+
+$iteration.nr
+[1] 15
+
+$cindex.train
+[1] 0.7027221
+
+$cindex.test
+[1] 0.633798
+
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue test:"
+$min.degree
+[1] 0.6
+
+$alpha
+[1] 0.8
+
+$nr.selected.genes
+[1] 1
+
+$list.of.genes
+[1] "PGK1"
+
+$pvalue.train
+[1] 1.832617e-05
+
+$pvalue.test
+[1] 0.06398939
+
+$iteration.nr
+[1] 3
+
+$cindex.train
+[1] 0.6741676
+
+$cindex.test
+[1] 0.6314179
+
+[1] "----- C-INDEX TRAIN --------------------------------------"
+[1] "average c-index train in successful runs:"
+cindex.train 
+   0.6972661 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 25
+[1] "standard deviation of the average c-index train:"
+cindex.train 
+  0.01400194 
+[1] "----- C-INDEX TEST --------------------------------------"
+[1] "average c-index test in successful runs:"
+cindex.test 
+  0.6309147 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 25
+[1] "standard deviation of the average c-index test:"
+cindex.test 
+0.004718444 
+[1] "---------------------------------------------------------"
+Time difference of 2.404036 hours
+null device 
+          1 

@@ -4,7 +4,7 @@ params <- list(seed = 1997)
 set.seed(params$seed)
 
 # Number of successful iterations that we want
-nr.of.iterations.to.perform <- 7
+nr.of.iterations.to.perform <- 25
 
 # Loss measure used for cross-validation
 measures.list <- c("deviance")
@@ -17,7 +17,7 @@ alpha.values.list <- c(0.1)
 min.degree.v <- 0.6
 
 # Pdf for the plots
-pdf('~/Documents/msc-beatriz-r-correia/survival-methods/hubcox/results/alpha0.1_ultimatentativa.pdf')
+pdf('~/Documents/msc-beatriz-r-correia/survival-methods/hubcox/results/alpha0.1_test.pdf')
 # -------------------------------------------------------------------
 
 library(dplyr)
@@ -159,7 +159,6 @@ while (x <= nr.of.iterations.to.perform) {
                                               alpha = alpha.values.list[i],
                                               network = "correlation",
                                               network.options = networkOptions(cutoff = 0.005, min.degree = min.degree.v))
-
         coefs.v <- coef(list.of.fits[[fit.name]], s = 'lambda.min')[,1] %>% { .[. != 0]}
         output.info[3] <- length(names(coefs.v))
         if (output.info$nr.selected.genes == 0) {

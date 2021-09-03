@@ -20,7 +20,9 @@ In the two Tables below can be seen the results from requesting 25 successful ru
 
 ![Table 1](https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table1.png)
 
-![Table 2](https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table2.png)
+<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table1.png" alt="table1" width="200"/>
+
+<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table2.png" alt="table2" width="180"/>
 
 The standard deviations, in parenthesis, in the first table allow to see that the average number of genes selected did not vary much between the 25 iterations of every alpha, except for alpha equal to 0.1, where the standard deviation was 53.56 genes, and also excluding alpha equal to zero where all the variables are selected, the average of the standard deviations for the other alpha values (0.2 to 1) was 1.36 genes.
 
@@ -32,4 +34,8 @@ In the last table are the best iterations from the 25 for every alpha value and 
 
 ![Table 3](https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table3.png)
 
+<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table3.png" alt="table3" width="150"/>
+
 ![Best HubCox model](https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/hubcox_bestmodel.png)
+
+<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/hubcox_bestmodel.png" alt="Best HubCox model" width="100"/>

@@ -18,11 +18,9 @@ Regarding the information saved in the *list* about each run, this program inste
 
 In the two Tables below can be seen the results from requesting 25 successful runs for the same alpha values as for the other models.
 
-![Table 1](https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table1.png)
+<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table1.png" alt="table1" align="center" width="750"/>
 
-<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table1.png" alt="table1" width="800"/>
-
-<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table2.png" alt="table2" width="850"/>
+<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table2.png" alt="table2" align="center" width="750"/>
 
 The standard deviations, in parenthesis, in the first table allow to see that the average number of genes selected did not vary much between the 25 iterations of every alpha, except for alpha equal to 0.1, where the standard deviation was 53.56 genes, and also excluding alpha equal to zero where all the variables are selected, the average of the standard deviations for the other alpha values (0.2 to 1) was 1.36 genes.
 
@@ -32,10 +30,6 @@ In the second table can be seen that the best models, with the lowest average p-
 
 In the last table are the best iterations from the 25 for every alpha value and the best model was obtained for alpha 0.9, with a p-value in the test of 0.062519, very close to being considered significant (highlighted). The three genes selected in this iteration were *LOC100128977*, *PGK1* and *PPFIA3*. The corresponding survival curves for low and high risk groups for this model is presented in below.
 
-![Table 3](https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table3.png)
+<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table3.png" alt="table3" align="center" width="750"/>
 
-<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/table3.png" alt="table3" width="700"/>
-
-![Best HubCox model](https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/hubcox_bestmodel.png)
-
-<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/hubcox_bestmodel.png" alt="Best HubCox model" width="700"/>
+<img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/hubcox/hubcox_bestmodel.png" alt="Best HubCox model" align="center" width="400"/>

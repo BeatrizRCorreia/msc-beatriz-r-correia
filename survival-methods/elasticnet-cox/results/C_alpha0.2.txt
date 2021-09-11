@@ -1,0 +1,1181 @@
+[1] "---------------------------------------------------------------------------------------"
+[1] 1
+[1] "mais uma run successful :)"
+[1] 2
+[1] "mais uma run successful :)"
+[1] 3
+[1] "mais uma run successful :)"
+[1] 4
+[1] "mais uma run successful :)"
+[1] 5
+[1] "mais uma run successful :)"
+[1] 6
+[1] "mais uma run successful :)"
+[1] 7
+[1] "mais uma run successful :)"
+[1] 8
+[1] "mais uma run successful :)"
+[1] 9
+[1] "mais uma run successful :)"
+[1] 10
+[1] "mais uma run successful :)"
+[1] 11
+[1] "mais uma run successful :)"
+[1] 12
+[1] "mais uma run successful :)"
+[1] 13
+[1] "mais uma run successful :)"
+[1] 14
+[1] "mais uma run successful :)"
+[1] 15
+[1] "mais uma run successful :)"
+[1] 16
+[1] "mais uma run successful :)"
+[1] 17
+[1] "mais uma run successful :)"
+[1] 18
+[1] "mais uma run successful :)"
+[1] 19
+[1] "mais uma run successful :)"
+[1] 20
+[1] "mais uma run successful :)"
+[1] 21
+[1] "mais uma run successful :)"
+[1] 22
+[1] "mais uma run successful :)"
+[1] 23
+[1] "mais uma run successful :)"
+[1] 24
+[1] "mais uma run successful :)"
+[1] 25
+[1] "mais uma run successful :)"
+[1] 26
+[1] "mais uma run successful :)"
+[1] 27
+[1] "mais uma run successful :)"
+[1] 28
+[1] "mais uma run successful :)"
+[1] 29
+[1] "mais uma run successful :)"
+[1] 30
+[1] "mais uma run successful :)"
+[1] 31
+[1] "mais uma run successful :)"
+[1] 32
+[1] "mais uma run successful :)"
+[1] 33
+[1] "mais uma run successful :)"
+[1] 34
+[1] "mais uma run successful :)"
+[1] 35
+[1] "mais uma run successful :)"
+[1] 36
+[1] "mais uma run successful :)"
+[1] 37
+[1] "mais uma run successful :)"
+[1] 38
+[1] "mais uma run successful :)"
+[1] 39
+[1] "mais uma run successful :)"
+[1] 40
+[1] "mais uma run successful :)"
+[1] 41
+[1] "mais uma run successful :)"
+[1] 42
+[1] "mais uma run successful :)"
+[1] 43
+[1] "mais uma run successful :)"
+[1] 44
+[1] "mais uma run successful :)"
+[1] 45
+[1] "mais uma run successful :)"
+[1] 46
+[1] "mais uma run successful :)"
+[1] 47
+[1] "mais uma run successful :)"
+[1] 48
+[1] "mais uma run successful :)"
+[1] 49
+[1] "mais uma run successful :)"
+[1] 50
+[1] "mais uma run successful :)"
+[1] "---------------------------------------------------------"
+[1] "nr of iterations to perform:"
+[1] 50
+[1] "nr of runs executed:"
+[1] 50
+[1] "nr of unsuccessful runs:"
+[1] 0
+[1] "genes selected with the nr of iterations they were selected:"
+         CCL4L2          HIATL2           ZNF32         C7orf10            BTG1 
+             50              50              50              50              50 
+            PZP           GBGT1         C3orf39          CCDC83           USP21 
+             50              50              50              50              50 
+          CMTM6          TMED10          GUCA1B           GCNT1          DCTPP1 
+             50              50              50              50              50 
+          GCNT7           PSME1           PSME2           MIMT1          GUCA2A 
+             50              50              50              50              50 
+          FITM2        C12orf61          NKAIN2          EIF4G2           APOL4 
+             50              50              50              50              50 
+         SDCBP2          MCART2          CRISP2          CRISP3          PPFIA3 
+             50              50              50              50              50 
+           JAK1            RPL3           CFLP1           NIPA2        RAPGEFL1 
+             50              50              50              50              50 
+           TANK            PHKB          PIK3CA            REG4          NPEPL1 
+             50              50              50              50              50 
+       CACNA2D1           DIRC3           INO80          NT5DC3             ADK 
+             50              50              50              50              50 
+           MEG8          KCNJ13    LOC100128977         TMEM14B            SAA2 
+             50              50              50              50              50 
+        C3orf70          IGFBP1            PNKD             FRK           FMO9P 
+             50              50              50              50              50 
+         CDK5R2          PPAP2C           DHX16          HOTAIR          LIN28B 
+             50              50              50              50              50 
+       MGC57346          MS4A6E            DLG3         GSTM2P1          PLA2G7 
+             50              50              50              50              50 
+           HPS4           C1QL2          ZDHHC2            DAB2            IFNK 
+             50              50              50              50              50 
+         FIBCD1           DDAH1            TSLP          FAM98B            IRGC 
+             50              50              50              50              50 
+         OR13A1         ZFYVE26          STEAP4           WNT3A           NPAS3 
+             50              50              50              50              50 
+       C11orf90            CELP         ZFYVE19        C11orf95          TBC1D4 
+             50              50              50              50              50 
+          FAM9C         CEACAM5           CREB5           EXOC1           PCGF5 
+             50              50              50              50              50 
+        SLC20A2        C21orf99        C15orf53        C15orf56        C21orf82 
+             50              50              50              50              50 
+           CES3          PTGES3          PMS2L1          KLHL13       LOC220729 
+             50              50              50              50              50 
+         OR52I1           SGPP1            THPO          PLXNB2       C14orf129 
+             50              50              50              50              50 
+          XRCC4          ZNF485       LOC646214            SAV1           OR5K1 
+             50              50              50              50              50 
+            SP5         COLEC10            DBC1          PCYT1A         TMEM90A 
+             50              50              50              50              50 
+           TCL6            DSG1       C14orf109           BAMBI            DSG4 
+             50              50              50              50              50 
+           ADH4           CNGA4           PCSK7           ACSM4            MAFA 
+             50              50              50              50              50 
+          ATF6B        CCDC144C           PPM1B           ZBED2            IMP5 
+             50              50              50              50              50 
+        SLC5A11           GCET2            LPXN       LOC440461           C2CD2 
+             50              50              50              50              50 
+          MCTS1           HMHB1           HBS1L          GPR107           ERP27 
+             50              50              50              50              50 
+         POU3F3          TRIM49   DKFZp686A1627           ROBO3           GNAT2 
+             50              50              50              50              50 
+        TMEM41A          AKR1E2          POLR2B          STXBP5          LHFPL3 
+             50              50              50              50              50 
+        FAM82A2            GFI1            SCG2           CYTL1           KRT12 
+             50              50              50              50              50 
+          UBE2A            PELO           MYH7B          RBMXL1      ST6GALNAC2 
+             50              50              50              50              50 
+     ST6GALNAC4           SSTR1            BRD4         GTF2H2B          ARID1B 
+             50              50              50              50              50 
+      LOC143188           ENPP6           LTA4H           OR7C1           KLRC1 
+             50              50              50              50              50 
+          HSPA8           MRVI1         GPR172A           PEX5L    LOC100131726 
+             50              50              50              50              50 
+          CPEB1          CRYBA4           NR0B1          CASP12           GLRA1 
+             50              50              50              50              50 
+           GRM5            CSN3           EFHA1         PCDHGA2            WNK3 
+             50              50              50              50              50 
+          CEP72            GALC            OPN4           GPR44         SLC45A2 
+             50              50              50              50              50 
+         EGFLAM           EDA2R           GSTM1           GSTM2           MACC1 
+             50              50              50              50              50 
+          STX11       LOC728323             IYD        C17orf99           RFPL1 
+             50              50              50              50              50 
+         NT5C1A              CP            TPT1         C8orf41            AQP9 
+             50              50              50              50              50 
+           LSG1         FAM117A           PI4KB         SLITRK3          MLF1IP 
+             50              50              50              50              50 
+         SPINT1            MID2           ACOT2           MDGA1              GK 
+             50              50              50              50              50 
+         CCL3L1          CCL3L3        C17orf64        SPATA5L1     SYS1-DBNDD2 
+             50              50              50              50              50 
+       SERPINA3         GAL3ST4          DCAF10            CHRD            UGDH 
+             50              50              50              50              50 
+          CNTN5       LOC647859          KCNMB2           SGMS1           NDST4 
+             50              50              50              50              50 
+           GGT6            ARG1        C6orf138           PHF20          MAP2K6 
+             50              50              50              50              50 
+         ZNF75D         BHLHE22           HARS2            PAK6          SDHAP1 
+             50              50              50              50              50 
+          FRMD1           TRA2A          TRMT2B           SFRP5           QRFPR 
+             50              50              50              50              50 
+        PLEKHH1            FGF7           PRR16           PRR18           MED17 
+             50              50              50              50              50 
+         MAGEB2          MAGEB4            ARL9            PGK1           STAC2 
+             50              50              50              50              50 
+        CXorf56            PSD2            IL18         TNFSF15           PLCZ1 
+             50              50              50              50              50 
+         LRRC8B           RPS18           WDR66            CDC6         FAM127C 
+             50              50              50              50              50 
+       HLA-DPB2            SELL          FAM26D            ALX3        CCDC102B 
+             50              50              49              49              49 
+           ERC2          NOTCH2          ZNF843         NUP62CL         C3orf36 
+             49              49              49              49              49 
+          INHBC           DDX43          COBLL1           ASAP3        PPP1R14D 
+             49              49              49              49              49 
+          MECP2         PYROXD1             WLS           MECOM         TRMT61B 
+             49              49              49              49              49 
+           NFE2            LCP1          CHI3L1        CSNK1A1L          NFKBIZ 
+             49              49              49              49              49 
+      LOC387646          NPC1L1            NQO2           PACS1            NLE1 
+             49              49              49              49              49 
+          GCOM1          KCNJ11            FHL5           RPAP1          GTPBP1 
+             49              49              49              49              49 
+       C15orf39         NEUROG2        C11orf46            GCSH           CCDC3 
+             49              49              49              49              49 
+          MSTO1          ZNF37A           SPNS2          NDUFB4          NPEPPS 
+             49              49              49              49              49 
+           WWC3           CLIC6            HPS3            GK3P          IL18BP 
+             49              49              49              49              49 
+          LYZL2            XRN2            KTN1           THAP8         C6orf25 
+             49              49              49              49              49 
+      C21orf122        C11orf73           SCFD1         CYP24A1           INTS9 
+             49              49              49              49              49 
+         IKBKAP       C14orf126 TNFSF12-TNFSF13            IRS4           ASCL3 
+             49              49              49              49              49 
+          BOLA1         SCGB1D2           LECT2         TMPRSS3           OR5K2 
+             49              49              49              49              49 
+            MRO           RXFP1        KIAA1524           VDAC1          DPRXP4 
+             49              49              49              49              49 
+       TMEM132D             SP8            VWC2         GALNTL6           TMTC2 
+             49              49              49              49              49 
+        C6orf81            RLN1            RLN2           PRMT6           CFHR1 
+             49              49              49              49              49 
+         TNFSF4       MAPK1IP1L          ZMYND8         KREMEN1         HDGFRP3 
+             49              49              49              49              49 
+         HOXC13            MGAM           SNTA1           FOXF1          CLEC9A 
+             49              49              49              49              49 
+         BRD7P3          TOMM22         ZC3H12A           PINX1           OTUB2 
+             49              49              49              49              49 
+           OOEP            RFX6            RFX8           RGPD8          CYP4Z1 
+             49              49              49              49              49 
+        COL22A1        CXorf49B           RUNX1          CLDN23          GPR110 
+             49              49              49              49              49 
+           INE2          TSGA13          ZNF567           PGAP3           MFAP2 
+             49              49              49              49              49 
+          PDE4A            ODF2           FOXO4          EEF1B2       POM121L4P 
+             49              49              49              49              49 
+          THOC2        C9orf122          GAPVD1          ZC3H14           PDE8A 
+             49              49              49              49              49 
+         TAS2R4          TAS2R9       LOC399744           DIP2B           IL1RN 
+             49              49              49              49              49 
+          EIF3L          GREB1L            RHCE            DNM3             CPD 
+             49              49              49              49              49 
+          TSPO2          EXOSC6         C1orf53        MGC15885          TMEM31 
+             49              49              49              49              49 
+        C5orf55           OR1F1           TPSD1           PEG10        SLC25A14 
+             49              49              49              49              49 
+           TOX2           KLRB1        LYPLA2P1         C9orf66         FAM166B 
+             49              49              49              49              49 
+       C13orf39           HSPA2            SNW1        C17orf44        SLC25A41 
+             49              49              49              49              49 
+       C13orf26           MOAP1          DLGAP2          ZNF665          SLC6A3 
+             49              49              49              49              49 
+         OSBPL5            SDC3        MGC14436         FAM71E2           ABCB5 
+             49              49              49              49              49 
+          PLCE1         ABCA17P          ABCB11          ENTPD2           TGIF1 
+             49              49              49              49              49 
+      LOC550112           MYO16            ZFP3            PFKL           CRYAA 
+             49              49              49              49              49 
+           MIA2           SOX13           CNTFR            CSTA           CMYA5 
+             49              49              49              49              49 
+          PMPCB         C8orf42         SH3KBP1           MTHFR           HTRA4 
+             49              49              49              49              49 
+         DNAJB1         MAGEA9B           RBM45           HIPK4           RGS20 
+             49              49              49              49              49 
+          PROX2           ACOT1          RAD23B            KLK7          PMFBP1 
+             49              49              49              49              49 
+         ZNF727           UNC5D    LOC100130264        LOC90246            G6PD 
+             49              49              49              49              49 
+           F11R        C6orf142           OR2L3           SARM1        C1orf152 
+             49              49              49              49              49 
+          TACC2            MUC2          LRRC43          MAGEA4          MAGEB1 
+             49              49              49              49              49 
+       KIAA1826           GFRA2        FLJ34503         SLC46A2            MTTP 
+             49              49              49              49              49 
+        C8orf86          RNF217          RNASE3          SAP130          ZNHIT6 
+             49              49              49              49              49 
+            EN2           FRRS1            NKAP           KCNQ5              TH 
+             49              49              49              49              49 
+       C22orf25            CTSW        ADAMTSL1          CCDC27          CCDC36 
+             49              49              49              49              49 
+          SNX15         PLEKHM1             RD3         RABGAP1            REM2 
+             49              49              48              48              48 
+           ANO5        APOBEC3F         TBC1D24           BMP8A       LOC148189 
+             48              48              48              48              48 
+        ANKRD52             NRK         HSD17B7            FLT3         TM4SF20 
+             48              48              48              48              48 
+          PNMA1       LOC339290         DNAJB13           REXO2          TAGLN2 
+             47              47              47              47              47 
+          TUBB4         ZSCAN23           ABCD1          PCDHA1          RNF141 
+             47              47              47              47              47 
+          GSTT2      POM121L10P          TSPAN6            CDH1          FERD3L 
+             47              47              46              46              46 
+          PIN1L           NFRKB           RABL3           SOCS2           ITGAX 
+             46              46              46              46              46 
+         SEC22B          ERICH1          ADORA3        MGC45800           GPR52 
+             46              46              46              46              46 
+          RPL41            PRCP           ABCG4         CYP27B1         RPS6KA3 
+             46              46              46              46              46 
+          PATE2           APOA5           ASAH2            PSG1           PAICS 
+             46              46              46              46              45 
+           COPA            USP1            TAL2          CYFIP1          ZFC3H1 
+             45              45              45              45              45 
+        ADIPOR2          SLFN12           TIMM9           CPSF2           LIN7C 
+             45              45              45              45              45 
+       TP53AIP1            CPS1          SEMA3E          OR13G1          CAPNS1 
+             45              45              45              45              45 
+      LOC401127        FLJ32063          MLXIPL           DDHD1           BLCAP 
+             45              45              45              45              45 
+           TCP1         FAM101B           CILP2           DMRT2            DND1 
+             45              45              45              45              45 
+           OCRL         ST6GAL1           KRT37        RPL31P11          EXOSC3 
+             45              45              45              45              45 
+        FAM111A        MARVELD3        KIAA1310           KRT84           ZMAT3 
+             45              45              45              45              45 
+          XYLT1          GABRG1            GLUL            CST9          DCAF12 
+             45              45              45              45              45 
+          AGTR2        C6orf115            ZAR1          LRRC4C           STAB2 
+             45              45              45              45              45 
+           SVIP        C22orf23           TIGD4        C6orf217          CYP4B1 
+             45              45              45              44              44 
+         OTUD7A           SEZ6L            ETFA           DCAF4         EPB41L3 
+             44              44              44              44              44 
+        TAS2R30           EIF3D            SNRK         SLC39A7          MAP7D3 
+             44              44              44              44              44 
+          BIRC2           SEL1L         ISG20L2            CD8B            CTSO 
+             44              44              44              44              44 
+           NCR2          CORO2A          AKAP12           AP3S2            DLX4 
+             43              42              42              42              42 
+        C18orf2           RDH11            MRRF          SFMBT1          RBM15B 
+             42              42              42              42              42 
+           MC1R          SPINK2            GBA3        RAD51AP2         CYP27A1 
+             42              42              42              42              42 
+        IL13RA2        PPP1R16B             RP2        C21orf57           ASCL4 
+             42              40              40              40              40 
+          VDAC3         PHYHIPL         RASL11B       C14orf183          ELMOD3 
+             40              40              40              40              40 
+         NMNAT1           GPR27            KRAS            AQP4         SH3BP5L 
+             40              40              40              40              40 
+          NXNL2           SALL2          ANKS4B             HBB            PPA2 
+             40              40              40              39              39 
+          ASB15           RPS4X        C16orf73             EZR          ZNF33A 
+             38              37              37              37              37 
+          ATP7B           ZC4H2           VWA3A          ADAM15       TNFRSF10D 
+             37              37              37              37              37 
+      LOC253039           BFSP1          PTPN18           ESRRG          FAM83A 
+             37              37              37              36              36 
+       FLJ43950          SH3GL3            TARP            NAB2           HCG22 
+             36              36              36              36              36 
+          ACADM            CR1L          OR2L13            PIGK          GRXCR2 
+             36              36              36              36              36 
+          RP1L1          HOXC10          LILRP2          TXNDC6             TNN 
+             36              36              36              36              36 
+          OR1C1            CARS         TAS2R50           RBM20        C17orf74 
+             36              36              36              36              36 
+       C1orf101          RAVER2         CCDC147         RPL13P5           ATXN3 
+             36              36              36              36              36 
+        TM4SF18          ZNF835           ZNF48       LOC340074           SYT15 
+             36              35              35              35              35 
+       C19orf26    LOC100132288         CXADRP2         MAB21L2       C14orf169 
+             35              35              35              35              35 
+          HTR1F           COPB2             VHL       LOC729609           VPS36 
+             35              35              35              35              35 
+           IL27            JRKL         FAM198A          GALNT3            LEF1 
+             35              33              33              33              33 
+          MCCD1        C14orf43         SUGT1P1          PCDH10       LOC440925 
+             33              33              33              33              33 
+           PLP1           KIF4B          ABHD13         SLC30A5           AMAC1 
+             33              31              31              31              31 
+           PTMA           PYDC1            GPC6            TMX1       LOC150568 
+             31              31              31              31              31 
+           GFAP          SERGEF    LOC100188949          TMEM49           LPAR3 
+             31              31              31              31              31 
+      LOC283070           GRIA3            XPO4           MED28           MAK16 
+             31              31              31              31              31 
+           SHBG           KLHL1            TMC7            SGCE           CPNE8 
+             29              28              28              28              28 
+         TUBAL3           USPL1          TRERF1           PVRL4          ZSWIM1 
+             28              28              28              28              28 
+         ZNF548           ATG12            HSN2         SLC34A2           CNTN3 
+             28              28              28              28              28 
+          TIRAP          LRRC31            ASB7          GTPBP5        EEF1A1P9 
+             28              28              28              27              27 
+        ARHGAP6           CASP7           MUC17         FAM176B        PCDHGB8P 
+             27              27              27              27              27 
+         KCNMB3          CDC25B         SLC35C2           SMPD4        FLJ39653 
+             27              27              27              25              25 
+           TRIL           GRIP2         LRRC10B            IWS1           MEOX1 
+             25              25              25              25              25 
+         OR52D1           BARD1          ZNF449           LPPR4        FAM160B2 
+             25              25              25              25              25 
+          BAALC           WSCD2             MX2             BTD            DMPK 
+             25              25              25              25              25 
+           NTF3            SCG5         PLA2G2C            MBIP           REP15 
+             25              25              25              25              25 
+          FGF14       LOC441601           GPR50          C8orf4           ATMIN 
+             25              25              25              25              25 
+          CBLN4 
+             25 
+[1] "---------------------------------------------------------"
+[1] "average nr of genes selected in successful runs:"
+nr.selected.genes 
+           824.66 
+[1] "standard deviation of the average nr of genes selected in successful runs:"
+nr.selected.genes 
+         241.8926 
+[1] "----- PVALUE TRAIN --------------------------------------"
+[1] "average pvalue train in successful runs:"
+pvalue.train 
+           0 
+[1] "standard deviation of the average pvalue train:"
+pvalue.train 
+           0 
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in statistically significant successful runs:"
+pvalue.train 
+           0 
+[1] "nr of statistically significant pvalue train successful runs:"
+[1] 50
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in NON-statistically significant successful runs:"
+[1] NA
+[1] "nr of NON-statistically significant pvalue train successful runs:"
+[1] 0
+[1] "----- PVALUE TEST --------------------------------------"
+[1] "average pvalue test in successful runs:"
+pvalue.test 
+0.004551393 
+[1] "standard deviation of the average pvalue test:"
+pvalue.test 
+ 0.01116112 
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in statistically significant successful runs:"
+pvalue.test 
+0.002980281 
+[1] "nr of statistically significant pvalue test successful runs:"
+[1] 49
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in NON-statistically significant successful runs:"
+pvalue.test 
+ 0.08153587 
+[1] "nr of NON-statistically significant pvalue test successful runs:"
+[1] 1
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue train:"
+$measure
+[1] "C"
+
+$alpha
+[1] 0.2
+
+$nr.selected.genes
+[1] 977
+
+$list.of.genes
+  [1] "AANAT"           "ABCA17P"         "ABCB11"          "ABCB5"          
+  [5] "ABCC6P1"         "ABCD1"           "ABCG4"           "ABHD13"         
+  [9] "ABR"             "ACADM"           "ACOT1"           "ACOT2"          
+ [13] "ACSL3"           "ACSM4"           "ADAM15"          "ADAM20"         
+ [17] "ADAMTSL1"        "ADCY1"           "ADH4"            "ADIPOR2"        
+ [21] "ADK"             "ADORA3"          "ADRA1B"          "AGA"            
+ [25] "AGTR2"           "AKAP12"          "AKR1E2"          "ALX3"           
+ [29] "AMAC1"           "ANKRD52"         "ANKRD56"         "ANKS4B"         
+ [33] "ANO5"            "ANTXRL"          "AOX2P"           "AP3D1"          
+ [37] "AP3S2"           "APOA5"           "APOBEC3F"        "APOL4"          
+ [41] "APOOL"           "AQP4"            "AQP9"            "ARC"            
+ [45] "ARG1"            "ARHGAP27"        "ARHGAP6"         "ARID1B"         
+ [49] "ARL9"            "ASAH2"           "ASAP3"           "ASB7"           
+ [53] "ASCL3"           "ASCL4"           "ATF6B"           "ATG12"          
+ [57] "ATMIN"           "ATP7B"           "ATXN3"           "AUH"            
+ [61] "BAALC"           "BAMBI"           "BARD1"           "BATF2"          
+ [65] "BCAS3"           "BCCIP"           "BDH1"            "BEST1"          
+ [69] "BFSP1"           "BHLHE22"         "BIRC2"           "BLCAP"          
+ [73] "BMP8A"           "BMS1"            "BOLA1"           "BRD4"           
+ [77] "BRD7P3"          "BTD"             "BTG1"            "C10orf25"       
+ [81] "C11orf46"        "C11orf73"        "C11orf90"        "C11orf95"       
+ [85] "C12orf61"        "C13orf26"        "C13orf39"        "C14orf109"      
+ [89] "C14orf126"       "C14orf129"       "C14orf169"       "C14orf183"      
+ [93] "C14orf1"         "C14orf43"        "C15orf39"        "C15orf52"       
+ [97] "C15orf53"        "C15orf56"        "C17orf44"        "C17orf64"       
+[101] "C17orf74"        "C17orf99"        "C18orf2"         "C19orf26"       
+[105] "C1QL2"           "C1orf101"        "C1orf152"        "C1orf157"       
+[109] "C1orf53"         "C21orf122"       "C21orf57"        "C21orf82"       
+[113] "C21orf99"        "C22orf23"        "C22orf25"        "C2CD2"          
+[117] "C2orf57"         "C2orf68"         "C2orf69"         "C3orf36"        
+[121] "C3orf39"         "C3orf57"         "C3orf70"         "C4orf46"        
+[125] "C5orf55"         "C6orf115"        "C6orf138"        "C6orf142"       
+[129] "C6orf217"        "C6orf25"         "C6orf81"         "C7orf10"        
+[133] "C7orf34"         "C7orf54"         "C8orf41"         "C8orf42"        
+[137] "C8orf4"          "C8orf86"         "C9orf122"        "C9orf156"       
+[141] "C9orf66"         "CACNA2D1"        "CAPNS1"          "CARS"           
+[145] "CASP12"          "CASP7"           "CBLN4"           "CBX6"           
+[149] "CCDC102B"        "CCDC115"         "CCDC144C"        "CCDC27"         
+[153] "CCDC36"          "CCDC3"           "CCDC83"          "CCDC92"         
+[157] "CCL11"           "CCL3L1"          "CCL3L3"          "CCL4L2"         
+[161] "CD163L1"         "CD5L"            "CD8B"            "CDC25B"         
+[165] "CDC6"            "CDH1"            "CDK5R2"          "CEACAM5"        
+[169] "CELP"            "CEP72"           "CER1"            "CES3"           
+[173] "CFHR1"           "CFLP1"           "CHI3L1"          "CHRD"           
+[177] "CILP2"           "CLDN14"          "CLDN23"          "CLEC3A"         
+[181] "CLEC6A"          "CLEC9A"          "CLIC6"           "CLN8"           
+[185] "CMTM6"           "CMYA5"           "CNGA4"           "CNTFR"          
+[189] "CNTN3"           "CNTN5"           "COBLL1"          "COL22A1"        
+[193] "COLEC10"         "COPA"            "COPB2"           "CORO2A"         
+[197] "COTL1"           "COX18"           "CPD"             "CPEB1"          
+[201] "CPNE8"           "CPS1"            "CPSF2"           "CP"             
+[205] "CR1L"            "CREB5"           "CRISP2"          "CRISP3"         
+[209] "CRYAA"           "CRYBA4"          "CRYZL1"          "CSN3"           
+[213] "CSNK1A1L"        "CST4"            "CST9"            "CSTA"           
+[217] "CTR9"            "CTSO"            "CTSW"            "CTTN"           
+[221] "CXorf49B"        "CXorf56"         "CYFIP1"          "CYP19A1"        
+[225] "CYP24A1"         "CYP27A1"         "CYP27B1"         "CYP4B1"         
+[229] "CYP4Z1"          "CYTL1"           "DAB2"            "DBC1"           
+[233] "DCAF10"          "DCAF12"          "DCAF16"          "DCAF4"          
+[237] "DCTPP1"          "DDAH1"           "DDHD1"           "DDIT4"          
+[241] "DDX43"           "DGAT2L6"         "DHX16"           "DIP2B"          
+[245] "DIRC3"           "DKFZp686A1627"   "DLG3"            "DLGAP2"         
+[249] "DLX4"            "DMPK"            "DMRT2"           "DNAJB13"        
+[253] "DNAJB1"          "DND1"            "DNM3"            "DOM3Z"          
+[257] "DPRXP4"          "DPY19L1"         "DSG1"            "DSG4"           
+[261] "DUSP8"           "EDA2R"           "EEF1A1P9"        "EEF1B2"         
+[265] "EFHA1"           "EFNB3"           "EGFLAM"          "EGR2"           
+[269] "EIF3D"           "EIF3L"           "EIF3M"           "EIF4E1B"        
+[273] "EIF4G2"          "ELAC1"           "ELMOD3"          "EN2"            
+[277] "ENO1"            "ENPP6"           "ENTPD2"          "EPB41L3"        
+[281] "EPC1"            "EPHX3"           "ERC2"            "ERICH1"         
+[285] "ERP27"           "ESRRG"           "ETFA"            "EXD1"           
+[289] "EXOC1"           "EXOSC3"          "EXOSC6"          "EZR"            
+[293] "F11R"            "F13A1"           "FAM101B"         "FAM111A"        
+[297] "FAM117A"         "FAM120C"         "FAM127C"         "FAM160B2"       
+[301] "FAM162B"         "FAM166B"         "FAM176B"         "FAM188A"        
+[305] "FAM198A"         "FAM26D"          "FAM40B"          "FAM71E2"        
+[309] "FAM82A2"         "FAM83A"          "FAM98B"          "FAM9C"          
+[313] "FCGR2B"          "FERD3L"          "FGF14"           "FGF2"           
+[317] "FGF7"            "FHL5"            "FIBCD1"          "FITM2"          
+[321] "FLJ32063"        "FLJ34503"        "FLJ39653"        "FLJ40292"       
+[325] "FLJ43950"        "FLJ44635"        "FLT3"            "FMO6P"          
+[329] "FMO9P"           "FOXF1"           "FOXO4"           "FRK"            
+[333] "FRMD1"           "FRRS1"           "FUBP1"           "G2E3"           
+[337] "G6PD"            "GABRG1"          "GAD1"            "GAL3ST4"        
+[341] "GALC"            "GALNT3"          "GALNT9"          "GALNTL6"        
+[345] "GAPVD1"          "GBA3"            "GBGT1"           "GCET2"          
+[349] "GCNT1"           "GCNT7"           "GCOM1"           "GCSH"           
+[353] "GFAP"            "GFI1"            "GFRA2"           "GGT6"           
+[357] "GINS3"           "GK3P"            "GK"              "GLOD5"          
+[361] "GLRA1"           "GLUL"            "GM2A"            "GNA13"          
+[365] "GNAT2"           "GPC6"            "GPR107"          "GPR109A"        
+[369] "GPR110"          "GPR132"          "GPR137C"         "GPR172A"        
+[373] "GPR27"           "GPR44"           "GPR50"           "GPR52"          
+[377] "GPRC5A"          "GREB1L"          "GRHL2"           "GRIA3"          
+[381] "GRIP2"           "GRM5"            "GRXCR2"          "GSTM1"          
+[385] "GSTM2P1"         "GSTM2"           "GSTT2"           "GTF2E2"         
+[389] "GTF2H2B"         "GTPBP1"          "GTPBP5"          "GUCA1B"         
+[393] "GUCA2A"          "HAL"             "HAMP"            "HARS2"          
+[397] "HBB"             "HBS1L"           "HCG22"           "HDAC4"          
+[401] "HDGFRP3"         "HESX1"           "HIATL2"          "HIPK4"          
+[405] "HIST1H4F"        "HK3"             "HKDC1"           "HLA-DPB2"       
+[409] "HMGB3L1"         "HMGCS2"          "HMGXB3"          "HMHB1"          
+[413] "HNF1A"           "HOTAIR"          "HOXA7"           "HOXC10"         
+[417] "HOXC13"          "HPS3"            "HPS4"            "HRASLS5"        
+[421] "HSD17B4"         "HSD17B7"         "HSN2"            "HSPA2"          
+[425] "HSPA8"           "HSPB7"           "HTR1F"           "HTRA4"          
+[429] "IFNK"            "IGFBP1"          "IGFBP4"          "IGSF9B"         
+[433] "IKBKAP"          "IL13RA2"         "IL18BP"          "IL18"           
+[437] "IL1RN"           "IL27"            "IL5"             "IMP5"           
+[441] "INE2"            "INHBC"           "INO80"           "INTS9"          
+[445] "IP6K1"           "IRGC"            "IRS4"            "ISG20L2"        
+[449] "ITGAX"           "IWS1"            "IYD"             "JAK1"           
+[453] "JRKL"            "KCNE2"           "KCNJ11"          "KCNJ13"         
+[457] "KCNMB2"          "KCNMB3"          "KCNQ5"           "KIAA0247"       
+[461] "KIAA1310"        "KIAA1524"        "KIAA1826"        "KIF4B"          
+[465] "KLHL13"          "KLHL1"           "KLHL22"          "KLK7"           
+[469] "KLRB1"           "KLRC1"           "KRAS"            "KREMEN1"        
+[473] "KRT12"           "KRT37"           "KRT84"           "KTN1"           
+[477] "LCP1"            "LDLRAD3"         "LECT2"           "LEF1"           
+[481] "LGALS4"          "LHFPL3"          "LILRP2"          "LIN28B"         
+[485] "LIN7C"           "LIPT2"           "LOC100128640"    "LOC100128977"   
+[489] "LOC100130264"    "LOC100131726"    "LOC100132288"    "LOC100188949"   
+[493] "LOC100302640"    "LOC143188"       "LOC148189"       "LOC150568"      
+[497] "LOC220729"       "LOC253039"       "LOC283070"       "LOC285456"      
+[501] "LOC339290"       "LOC340074"       "LOC387646"       "LOC389332"      
+[505] "LOC399744"       "LOC401127"       "LOC440461"       "LOC440925"      
+[509] "LOC441601"       "LOC550112"       "LOC646214"       "LOC647859"      
+[513] "LOC728323"       "LOC729609"       "LOC84931"        "LOC90246"       
+[517] "LOXL3"           "LPAR3"           "LPPR4"           "LPXN"           
+[521] "LRRC10B"         "LRRC31"          "LRRC43"          "LRRC4C"         
+[525] "LRRC8B"          "LSG1"            "LTA4H"           "LYPLA2P1"       
+[529] "LYZL2"           "MACC1"           "MAFA"            "MAFF"           
+[533] "MAGEA4"          "MAGEA9B"         "MAGEB1"          "MAGEB2"         
+[537] "MAGEB4"          "MAK16"           "MAP2K6"          "MAP7D3"         
+[541] "MAPK1IP1L"       "MARVELD3"        "MBIP"            "MC1R"           
+[545] "MCART2"          "MCCD1"           "MCTS1"           "MDGA1"          
+[549] "MECOM"           "MECP2"           "MED17"           "MED28"          
+[553] "MEF2A"           "MEG8"            "MEOX1"           "MFAP2"          
+[557] "MGAM"            "MGC14436"        "MGC15885"        "MGC45800"       
+[561] "MGC57346"        "MIA2"            "MID2"            "MIER1"          
+[565] "MIMT1"           "MKX"             "MLF1IP"          "MLXIPL"         
+[569] "MOAP1"           "MRO"             "MRRF"            "MRVI1"          
+[573] "MS4A6E"          "MSL1"            "MSTO1"           "MTA3"           
+[577] "MTHFR"           "MTNR1A"          "MTTP"            "MUC17"          
+[581] "MUC2"            "MX2"             "MYH7B"           "MYO16"          
+[585] "MYST3"           "NAB2"            "NAGS"            "NBEAL2"         
+[589] "NCKIPSD"         "NCR2"            "NDST4"           "NDUFB4"         
+[593] "NEUROG2"         "NFE2"            "NFKBIZ"          "NFRKB"          
+[597] "NIPA2"           "NKAIN2"          "NKAP"            "NLE1"           
+[601] "NMNAT1"          "NONO"            "NOTCH2"          "NOTUM"          
+[605] "NOV"             "NPAS3"           "NPC1L1"          "NPEPL1"         
+[609] "NPEPPS"          "NQO2"            "NR0B1"           "NRK"            
+[613] "NT5C1A"          "NT5DC3"          "NTF3"            "NUP43"          
+[617] "NUP62CL"         "NXNL2"           "OCRL"            "ODF2"           
+[621] "OOEP"            "OPN4"            "OR10V1"          "OR13A1"         
+[625] "OR13G1"          "OR1C1"           "OR1F1"           "OR2C3"          
+[629] "OR2L13"          "OR2L3"           "OR4C6"           "OR52D1"         
+[633] "OR52I1"          "OR56B4"          "OR5K1"           "OR5K2"          
+[637] "OR7C1"           "OSBPL5"          "OTUB2"           "OTUD7A"         
+[641] "P2RY12"          "PACRGL"          "PACS1"           "PAICS"          
+[645] "PAK6"            "PAQR8"           "PAR1"            "PATE2"          
+[649] "PAX3"            "PAX7"            "PCDH10"          "PCDHA1"         
+[653] "PCDHGA2"         "PCDHGB8P"        "PCGF5"           "PCSK7"          
+[657] "PCYT1A"          "PDE4A"           "PDE6G"           "PDE8A"          
+[661] "PEG10"           "PELO"            "PEX5L"           "PFKL"           
+[665] "PGAP3"           "PGK1"            "PGM2L1"          "PGM5"           
+[669] "PHACTR1"         "PHF20"           "PHKB"            "PHYHIPL"        
+[673] "PI4KB"           "PIGK"            "PIK3CA"          "PIN1L"          
+[677] "PINX1"           "PITPNB"          "PLA2G2C"         "PLA2G7"         
+[681] "PLAT"            "PLCE1"           "PLCZ1"           "PLEKHH1"        
+[685] "PLEKHM1"         "PLP1"            "PLXNB2"          "PMFBP1"         
+[689] "PMPCB"           "PMS2L1"          "PNKD"            "PNMA1"          
+[693] "POLR2B"          "POM121L10P"      "POM121L4P"       "POU3F3"         
+[697] "PPAP2C"          "PPFIA3"          "PPM1B"           "PPP1R14D"       
+[701] "PPP1R16B"        "PRCP"            "PRMT6"           "PROX2"          
+[705] "PRR16"           "PRR18"           "PSD2"            "PSG1"           
+[709] "PSME1"           "PSME2"           "PTGES3"          "PTMA"           
+[713] "PTPN18"          "PTPRE"           "PVRL4"           "PYDC1"          
+[717] "PYROXD1"         "PZP"             "QRFPR"           "RABGAP1"        
+[721] "RABL3"           "RAD23B"          "RAD51AP2"        "RAPGEFL1"       
+[725] "RASL11B"         "RAVER2"          "RBM15B"          "RBM20"          
+[729] "RBM45"           "RBMXL1"          "RD3"             "RDH11"          
+[733] "RECQL"           "REG4"            "RELA"            "REM2"           
+[737] "REP15"           "REXO2"           "RFPL1"           "RFPL3"          
+[741] "RFX6"            "RFX8"            "RGPD8"           "RGS20"          
+[745] "RGS6"            "RHCE"            "RHOV"            "RLN1"           
+[749] "RLN2"            "RNASE1"          "RNASE3"          "RNF141"         
+[753] "RNF217"          "ROBO3"           "RP1L1"           "RP2"            
+[757] "RPA4"            "RPAP1"           "RPL13P5"         "RPL19P12"       
+[761] "RPL31P11"        "RPL34"           "RPL3"            "RPL41"          
+[765] "RPS18"           "RPS4X"           "RPS6KA3"         "RPS8"           
+[769] "RUNX1"           "RXFP1"           "SAA2"            "SALL2"          
+[773] "SAP130"          "SARM1"           "SAV1"            "SCFD1"          
+[777] "SCG2"            "SCG5"            "SCGB1D2"         "SDC3"           
+[781] "SDCBP2"          "SDHAP1"          "SEC22B"          "SEL1L"          
+[785] "SELL"            "SEMA3E"          "SERGEF"          "SERINC3"        
+[789] "SERPINA3"        "SERPINE3"        "SERTAD1"         "SEZ6L"          
+[793] "SFMBT1"          "SFRP5"           "SGCE"            "SGMS1"          
+[797] "SGPP1"           "SGSM1"           "SH3BP5L"         "SH3GL3"         
+[801] "SH3KBP1"         "SHBG"            "SLC20A2"         "SLC25A14"       
+[805] "SLC25A41"        "SLC27A6"         "SLC30A5"         "SLC34A2"        
+[809] "SLC35C2"         "SLC39A7"         "SLC45A1"         "SLC45A2"        
+[813] "SLC46A2"         "SLC5A11"         "SLC6A3"          "SLFN12"         
+[817] "SLITRK3"         "SMPD4"           "SNORA8"          "SNRK"           
+[821] "SNTA1"           "SNW1"            "SNX15"           "SOCS2"          
+[825] "SOX13"           "SOX3"            "SP5"             "SP8"            
+[829] "SPANXB2"         "SPATA5L1"        "SPIB"            "SPINK2"         
+[833] "SPINT1"          "SPNS2"           "SSTR1"           "ST6GAL1"        
+[837] "ST6GALNAC2"      "ST6GALNAC4"      "STAB2"           "STAC2"          
+[841] "STEAP4"          "STK19"           "STX11"           "STXBP5"         
+[845] "SUGT1P1"         "SVIP"            "SYS1-DBNDD2"     "SYT15"          
+[849] "TACC2"           "TAGLN2"          "TAL2"            "TANK"           
+[853] "TARP"            "TAS2R30"         "TAS2R4"          "TAS2R50"        
+[857] "TAS2R9"          "TBC1D24"         "TBC1D4"          "TCL6"           
+[861] "TCP1"            "TGIF1"           "THAP8"           "THOC2"          
+[865] "THPO"            "TH"              "TIGD4"           "TIMM9"          
+[869] "TIRAP"           "TM4SF18"         "TM4SF20"         "TMC7"           
+[873] "TMED10"          "TMEM132D"        "TMEM14B"         "TMEM30B"        
+[877] "TMEM31"          "TMEM41A"         "TMEM49"          "TMEM90A"        
+[881] "TMPRSS3"         "TMTC2"           "TMX1"            "TNFAIP6"        
+[885] "TNFRSF10D"       "TNFSF12-TNFSF13" "TNFSF15"         "TNFSF4"         
+[889] "TNN"             "TOMM22"          "TOX2"            "TP53AIP1"       
+[893] "TPSD1"           "TPT1"            "TRA2A"           "TRERF1"         
+[897] "TRIL"            "TRIM15"          "TRIM49"          "TRMT2B"         
+[901] "TRMT61B"         "TRPM2"           "TSG101"          "TSGA13"         
+[905] "TSLP"            "TSPAN6"          "TSPO2"           "TUBAL3"         
+[909] "TUBB4"           "TUBGCP5"         "TXNDC6"          "UBA2"           
+[913] "UBE2A"           "UBE2R2"          "UGDH"            "UGT3A1"         
+[917] "UNC5D"           "UNKL"            "USP1"            "USP21"          
+[921] "USP33"           "VAPB"            "VDAC1"           "VDAC3"          
+[925] "VPS36"           "VPS37C"          "VSIG1"           "VSTM2A"         
+[929] "VWA5A"           "VWC2"            "WDR66"           "WDR93"          
+[933] "WLS"             "WNK3"            "WNT3A"           "WNT6"           
+[937] "WSCD2"           "WWC3"            "XPO4"            "XRCC4"          
+[941] "XRN2"            "XRRA1"           "XYLT1"           "ZAR1"           
+[945] "ZBED1"           "ZBED2"           "ZC3H12A"         "ZC3H14"         
+[949] "ZC4H2"           "ZDHHC2"          "ZFAND2A"         "ZFC3H1"         
+[953] "ZFP3"            "ZFYVE19"         "ZFYVE26"         "ZMAT3"          
+[957] "ZMYND8"          "ZNF32"           "ZNF33A"          "ZNF37A"         
+[961] "ZNF382"          "ZNF449"          "ZNF485"          "ZNF48"          
+[965] "ZNF510"          "ZNF548"          "ZNF567"          "ZNF665"         
+[969] "ZNF683"          "ZNF697"          "ZNF727"          "ZNF75D"         
+[973] "ZNF835"          "ZNF843"          "ZNHIT6"          "ZSCAN23"        
+[977] "ZSWIM1"         
+
+$pvalue.train
+[1] 0
+
+$pvalue.test
+[1] 0.002784403
+
+$iteration.nr
+[1] 1
+
+$cindex.train
+[1] 0.9998271
+
+$cindex.test
+[1] 0.7058824
+
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue test:"
+$measure
+[1] "C"
+
+$alpha
+[1] 0.2
+
+$nr.selected.genes
+[1] 1555
+
+$list.of.genes
+   [1] "AANAT"           "ABCA17P"         "ABCB11"          "ABCB5"          
+   [5] "ABCB9"           "ABCC6P1"         "ABCD1"           "ABCG4"          
+   [9] "ABHD13"          "ABHD3"           "ABI2"            "ABR"            
+  [13] "ACADM"           "ACBD5"           "ACOT1"           "ACOT2"          
+  [17] "ACOT4"           "ACSL3"           "ACSM4"           "ACTN3"          
+  [21] "ACTR8"           "ADAM15"          "ADAM20"          "ADAMTS1"        
+  [25] "ADAMTSL1"        "ADCY1"           "ADH4"            "ADH5"           
+  [29] "ADIPOR2"         "ADK"             "ADORA3"          "ADO"            
+  [33] "ADRA1B"          "AG2"             "AGA"             "AGPAT9"         
+  [37] "AHCYL1"          "AHRR"            "AIFM2"           "AKAP12"         
+  [41] "AKAP1"           "AKR1E2"          "ALDH2"           "ALG3"           
+  [45] "ALPK2"           "ALS2CR12"        "ALX3"            "AMAC1"          
+  [49] "AMTN"            "ANK3"            "ANKRD13D"        "ANKRD28"        
+  [53] "ANKRD36"         "ANKRD50"         "ANKRD52"         "ANKRD56"        
+  [57] "ANKS4B"          "ANO5"            "ANTXRL"          "ANXA13"         
+  [61] "AOX2P"           "AP3D1"           "APAF1"           "APLNR"          
+  [65] "APLN"            "APOA5"           "APOBEC3D"        "APOBEC3F"       
+  [69] "APOL4"           "APOL6"           "APOOL"           "AQP3"           
+  [73] "AQP4"            "AQP9"            "AQR"             "ARC"            
+  [77] "ARG1"            "ARHGAP27"        "ARHGAP6"         "ARHGEF10"       
+  [81] "ARID1B"          "ARL4A"           "ARL6IP5"         "ARL9"           
+  [85] "ASAH2"           "ASAP2"           "ASAP3"           "ASB7"           
+  [89] "ASCL3"           "ASNSD1"          "ATF6B"           "ATG12"          
+  [93] "ATMIN"           "ATP2A3"          "ATP5L2"          "ATP6V0A2"       
+  [97] "ATP7B"           "ATP8A2"          "ATXN3"           "ATXN7"          
+ [101] "AUH"             "B3GALT2"         "B4GALT1"         "B4GALT3"        
+ [105] "BAALC"           "BAMBI"           "BARD1"           "BARHL1"         
+ [109] "BATF2"           "BAZ2A"           "BCAS3"           "BCL9L"          
+ [113] "BCOR"            "BDH1"            "BDKRB2"          "BEGAIN"         
+ [117] "BEST1"           "BET3L"           "BEX5"            "BFSP1"          
+ [121] "BHLHE22"         "BIRC2"           "BMP8A"           "BMS1P4"         
+ [125] "BMS1"            "BOK"             "BOLA1"           "BPI"            
+ [129] "BRD2"            "BRD4"            "BRD7P3"          "BRPF3"          
+ [133] "BSND"            "BSPRY"           "BTBD16"          "BTD"            
+ [137] "BTG1"            "C10orf25"        "C10orf47"        "C10orf62"       
+ [141] "C11orf17"        "C11orf42"        "C11orf46"        "C11orf73"       
+ [145] "C11orf90"        "C11orf95"        "C12orf61"        "C13orf26"       
+ [149] "C13orf39"        "C14orf109"       "C14orf126"       "C14orf128"      
+ [153] "C14orf129"       "C14orf159"       "C14orf169"       "C14orf183"      
+ [157] "C14orf1"         "C14orf43"        "C15orf2"         "C15orf39"       
+ [161] "C15orf52"        "C15orf53"        "C15orf56"        "C15orf57"       
+ [165] "C17orf44"        "C17orf57"        "C17orf64"        "C17orf67"       
+ [169] "C17orf74"        "C17orf99"        "C18orf2"         "C19orf26"       
+ [173] "C19orf29"        "C19orf30"        "C19orf40"        "C19orf44"       
+ [177] "C19orf69"        "C1GALT1C1"       "C1QL2"           "C1orf101"       
+ [181] "C1orf152"        "C1orf157"        "C1orf180"        "C1orf227"       
+ [185] "C1orf53"         "C1orf59"         "C20orf108"       "C20orf112"      
+ [189] "C20orf173"       "C21orf122"       "C21orf57"        "C21orf82"       
+ [193] "C21orf99"        "C22orf23"        "C22orf25"        "C2CD2"          
+ [197] "C2orf18"         "C2orf50"         "C2orf52"         "C2orf57"        
+ [201] "C2orf68"         "C2orf69"         "C3orf36"         "C3orf39"        
+ [205] "C3orf57"         "C3orf59"         "C3orf70"         "C4orf14"        
+ [209] "C4orf46"         "C5orf20"         "C5orf25"         "C5orf55"        
+ [213] "C6orf115"        "C6orf136"        "C6orf138"        "C6orf142"       
+ [217] "C6orf195"        "C6orf204"        "C6orf217"        "C6orf25"        
+ [221] "C6orf35"         "C6orf52"         "C6orf81"         "C7orf10"        
+ [225] "C7orf34"         "C7orf52"         "C7orf54"         "C7orf71"        
+ [229] "C8orf31"         "C8orf41"         "C8orf42"         "C8orf4"         
+ [233] "C8orf79"         "C8orf86"         "C9orf122"        "C9orf130"       
+ [237] "C9orf156"        "C9orf66"         "C9orf84"         "CABP4"          
+ [241] "CACNA1D"         "CACNA1E"         "CACNA2D1"        "CAPN1"          
+ [245] "CAPNS1"          "CARS"            "CASC3"           "CASP12"         
+ [249] "CASP7"           "CAV2"            "CBLN4"           "CBR4"           
+ [253] "CBWD5"           "CBX6"            "CCDC102B"        "CCDC115"        
+ [257] "CCDC125"         "CCDC144C"        "CCDC27"          "CCDC36"         
+ [261] "CCDC3"           "CCDC83"          "CCDC90B"         "CCDC92"         
+ [265] "CCL11"           "CCL22"           "CCL3L1"          "CCL3L3"         
+ [269] "CCL4L2"          "CCL8"            "CCNA1"           "CCNB3"          
+ [273] "CCNT2"           "CCR1"            "CCR9"            "CD163L1"        
+ [277] "CD1B"            "CD226"           "CD300LB"         "CD5L"           
+ [281] "CD6"             "CD8B"            "CDADC1"          "CDC25B"         
+ [285] "CDC42EP2"        "CDC6"            "CDCP2"           "CDH10"          
+ [289] "CDH1"            "CDH26"           "CDK12"           "CDK20"          
+ [293] "CDK5R2"          "CDK7"            "CEACAM5"         "CELP"           
+ [297] "CEP290"          "CEP72"           "CER1"            "CES3"           
+ [301] "CFHR1"           "CFLP1"           "CHI3L1"          "CHRD"           
+ [305] "CHRNA5"          "CHST8"           "CILP2"           "CLDN14"         
+ [309] "CLDN23"          "CLEC3A"          "CLEC4M"          "CLEC6A"         
+ [313] "CLEC9A"          "CLIC3"           "CLIC6"           "CLN3"           
+ [317] "CLN8"            "CMTM6"           "CMYA5"           "CNGA4"          
+ [321] "CNNM4"           "CNTFR"           "CNTN3"           "CNTN5"          
+ [325] "COBLL1"          "COL13A1"         "COL22A1"         "COL27A1"        
+ [329] "COLEC10"         "COPA"            "COPB2"           "CORO2A"         
+ [333] "COTL1"           "COX18"           "COX7B"           "CPD"            
+ [337] "CPEB1"           "CPNE8"           "CPS1"            "CPSF2"          
+ [341] "CPXM2"           "CP"              "CR1L"            "CRB1"           
+ [345] "CREB5"           "CRHR1"           "CRISP2"          "CRISP3"         
+ [349] "CRLF3"           "CRYAA"           "CRYBA4"          "CRYZL1"         
+ [353] "CSN3"            "CSNK1A1L"        "CSNK1E"          "CST4"           
+ [357] "CST9"            "CSTA"            "CSTF2"           "CTR9"           
+ [361] "CTSO"            "CTSW"            "CTTN"            "CXorf49B"       
+ [365] "CXorf56"         "CXorf57"         "CYFIP1"          "CYP19A1"        
+ [369] "CYP24A1"         "CYP27A1"         "CYP2B6"          "CYP2J2"         
+ [373] "CYP3A7"          "CYP4Z1"          "CYTL1"           "DAB2"           
+ [377] "DBC1"            "DBF4"            "DCAF10"          "DCAF12"         
+ [381] "DCAF16"          "DCAF4"           "DCTPP1"          "DCT"            
+ [385] "DDAH1"           "DDHD1"           "DDIT4"           "DDO"            
+ [389] "DDX25"           "DDX43"           "DECR1"           "DGAT2L6"        
+ [393] "DGCR6"           "DGKQ"            "DHRS12"          "DHX16"          
+ [397] "DHX29"           "DIO1"            "DIP2B"           "DIRC3"          
+ [401] "DKFZp686A1627"   "DLEC1"           "DLEU7"           "DLG3"           
+ [405] "DLGAP2"          "DLX4"            "DMPK"            "DMRT2"          
+ [409] "DMRTC1B"         "DNAH11"          "DNAI1"           "DNAJB13"        
+ [413] "DNAJB1"          "DNAJC25-GNG10"   "DNAJC30"         "DND1"           
+ [417] "DNM3"            "DOM3Z"           "DPRXP4"          "DPY19L1"        
+ [421] "DSG1"            "DSG4"            "DSTN"            "DTNA"           
+ [425] "DUSP11"          "DUSP8"           "DYRK3"           "ECM1"           
+ [429] "EDA2R"           "EEF1A1P9"        "EEF1B2"          "EEF1G"          
+ [433] "EFHA1"           "EFNB3"           "EFS"             "EGFLAM"         
+ [437] "EGLN3"           "EGR2"            "EGR4"            "EIF1AX"         
+ [441] "EIF3D"           "EIF3L"           "EIF3M"           "EIF4E1B"        
+ [445] "EIF4E3"          "EIF4G2"          "ELAC1"           "ELMOD3"         
+ [449] "ELP3"            "EN2"             "ENO1"            "ENPP6"          
+ [453] "ENTPD2"          "ENTPD4"          "ENTPD5"          "EPC1"           
+ [457] "EPHB6"           "EPHX3"           "ERC2"            "ERICH1"         
+ [461] "ERN2"            "ERP27"           "ESPNP"           "ESRRA"          
+ [465] "ESRRG"           "ESX1"            "ETFA"            "ETNK2"          
+ [469] "ETV3"            "EXD1"            "EXOC1"           "EXOSC3"         
+ [473] "EXOSC6"          "EZR"             "F11R"            "F13A1"          
+ [477] "FAM101B"         "FAM116A"         "FAM117A"         "FAM120C"        
+ [481] "FAM127C"         "FAM160B2"        "FAM162B"         "FAM166B"        
+ [485] "FAM176B"         "FAM182B"         "FAM188A"         "FAM194A"        
+ [489] "FAM198A"         "FAM22D"          "FAM26D"          "FAM3B"          
+ [493] "FAM3D"           "FAM40B"          "FAM48B1"         "FAM58B"         
+ [497] "FAM70A"          "FAM71E2"         "FAM82A2"         "FAM83A"         
+ [501] "FAM86D"          "FAM98A"          "FAM98B"          "FAM9C"          
+ [505] "FANCF"           "FBXO27"          "FBXO36"          "FCGR2B"         
+ [509] "FDPSL2A"         "FERD3L"          "FGD3"            "FGF14"          
+ [513] "FGF19"           "FGF2"            "FGF7"            "FHL5"           
+ [517] "FIBCD1"          "FITM2"           "FKSG29"          "FLJ10213"       
+ [521] "FLJ32063"        "FLJ34503"        "FLJ39653"        "FLJ40292"       
+ [525] "FLJ41941"        "FLJ43950"        "FLJ44635"        "FLJ45340"       
+ [529] "FLT3"            "FMO4"            "FMO6P"           "FMO9P"          
+ [533] "FOXF1"           "FOXI3"           "FOXO4"           "FRG1"           
+ [537] "FRK"             "FRMD1"           "FRRS1"           "FSTL5"          
+ [541] "FUBP1"           "G2E3"            "G6PD"            "GABRG1"         
+ [545] "GAD1"            "GAL3ST4"         "GALC"            "GALNT3"         
+ [549] "GALNT7"          "GALNT9"          "GALNTL6"         "GAPVD1"         
+ [553] "GATA2"           "GBA3"            "GBGT1"           "GBP2"           
+ [557] "GCET2"           "GCNT1"           "GCNT7"           "GCOM1"          
+ [561] "GCSH"            "GDF3"            "GDF9"            "GFAP"           
+ [565] "GFI1"            "GFRA2"           "GGNBP1"          "GGT6"           
+ [569] "GHRHR"           "GINS2"           "GINS3"           "GK3P"           
+ [573] "GK"              "GLOD4"           "GLOD5"           "GLRA1"          
+ [577] "GLUL"            "GM2A"            "GNA13"           "GNAT2"          
+ [581] "GNB1L"           "GNB3"            "GOLGA2"          "GON4L"          
+ [585] "GORAB"           "GPC6"            "GPR107"          "GPR110"         
+ [589] "GPR132"          "GPR137C"         "GPR152"          "GPR15"          
+ [593] "GPR162"          "GPR172A"         "GPR17"           "GPR26"          
+ [597] "GPR27"           "GPR34"           "GPR44"           "GPR50"          
+ [601] "GPR52"           "GPR61"           "GPR82"           "GPRC5A"         
+ [605] "GPRIN2"          "GPT2"            "GREB1L"          "GRHL2"          
+ [609] "GRIA3"           "GRIP2"           "GRM5"            "GRXCR2"         
+ [613] "GSTM1"           "GSTM2P1"         "GSTM2"           "GSTM4"          
+ [617] "GSTO2"           "GTF2E2"          "GTF2H2B"         "GTF2IP1"        
+ [621] "GTPBP1"          "GTPBP5"          "GUCA1B"          "GUCA2A"         
+ [625] "GYLTL1B"         "HAL"             "HAMP"            "HARS2"          
+ [629] "HBB"             "HBEGF"           "HBS1L"           "HCG22"          
+ [633] "HCK"             "HDAC4"           "HDGFRP3"         "HEATR4"         
+ [637] "HERC2"           "HESRG"           "HESX1"           "HIATL2"         
+ [641] "HIPK4"           "HIST1H3E"        "HIST1H4F"        "HIST2H2AB"      
+ [645] "HK3"             "HKDC1"           "HLA-DPB2"        "HLA-DRB6"       
+ [649] "HLF"             "HMGB3L1"         "HMGCS2"          "HMGXB3"         
+ [653] "HMHB1"           "HMX1"            "HNF1A"           "HNRNPH3"        
+ [657] "HOTAIR"          "HOXA7"           "HOXC10"          "HOXC13"         
+ [661] "HPS3"            "HPS4"            "HRASLS5"         "HR"             
+ [665] "HS3ST1"          "HS6ST2"          "HSD17B4"         "HSD17B7"        
+ [669] "HSN2"            "HSPA2"           "HSPA8"           "HSPB11"         
+ [673] "HSPB7"           "HSPC072"         "HTA"             "HTR1F"          
+ [677] "HTRA3"           "HTRA4"           "HYI"             "HYMAI"          
+ [681] "ID2B"            "IFIT2"           "IFNK"            "IGFALS"         
+ [685] "IGFBP1"          "IGFBP4"          "IGFBPL1"         "IGSF9B"         
+ [689] "IGSF9"           "IKBKAP"          "IKZF3"           "IL12A"          
+ [693] "IL13RA2"         "IL18BP"          "IL18"            "IL1R1"          
+ [697] "IL1RN"           "IL27"            "IL5"             "IMP5"           
+ [701] "INA"             "INE2"            "INHBC"           "INO80"          
+ [705] "INPP1"           "INTS9"           "IP6K1"           "IQCF6"          
+ [709] "IQGAP1"          "IRF1"            "IRGC"            "IRS4"           
+ [713] "ISG20L2"         "ITGAX"           "IWS1"            "IYD"            
+ [717] "JAK1"            "JOSD1"           "JRKL"            "JUND"           
+ [721] "KCNA1"           "KCNE2"           "KCNG3"           "KCNJ10"         
+ [725] "KCNJ11"          "KCNJ13"          "KCNK17"          "KCNMB2"         
+ [729] "KCNMB3"          "KCNQ5"           "KCTD18"          "KDELR2"         
+ [733] "KDM4DL"          "KIAA0247"        "KIAA1024"        "KIAA1310"       
+ [737] "KIAA1524"        "KIAA1529"        "KIAA1737"        "KIAA1826"       
+ [741] "KIF4B"           "KIF5B"           "KIR2DL4"         "KITLG"          
+ [745] "KLF9"            "KLHL13"          "KLHL1"           "KLHL22"         
+ [749] "KLK11"           "KLK7"            "KLKP1"           "KLRB1"          
+ [753] "KLRC1"           "KRAS"            "KREMEN1"         "KRT12"          
+ [757] "KRT34"           "KRT37"           "KRT3"            "KRT72"          
+ [761] "KRT84"           "KRTAP1-1"        "KTN1"            "LAGE3"          
+ [765] "LAIR2"           "LARP1"           "LCN1"            "LCN8"           
+ [769] "LCP1"            "LDLRAD3"         "LDLR"            "LECT2"          
+ [773] "LEF1"            "LEMD2"           "LGALS2"          "LGALS4"         
+ [777] "LHFPL3"          "LHFPL5"          "LILRP2"          "LIN28B"         
+ [781] "LIN7C"           "LIPA"            "LIPT2"           "LMNB2"          
+ [785] "LMO2"            "LMO3"            "LOC100101266"    "LOC100128023"   
+ [789] "LOC100128542"    "LOC100128640"    "LOC100128977"    "LOC100130264"   
+ [793] "LOC100131726"    "LOC100132288"    "LOC100133920"    "LOC100134868"   
+ [797] "LOC100188949"    "LOC100271836"    "LOC100289341"    "LOC100302640"   
+ [801] "LOC100302650"    "LOC143188"       "LOC148709"       "LOC150568"      
+ [805] "LOC220729"       "LOC253039"       "LOC283070"       "LOC284632"      
+ [809] "LOC285456"       "LOC285954"       "LOC339535"       "LOC340074"      
+ [813] "LOC344595"       "LOC375190"       "LOC387646"       "LOC389332"      
+ [817] "LOC399744"       "LOC401463"       "LOC415056"       "LOC440461"      
+ [821] "LOC440925"       "LOC441601"       "LOC442459"       "LOC550112"      
+ [825] "LOC646214"       "LOC647859"       "LOC653653"       "LOC727896"      
+ [829] "LOC728323"       "LOC729609"       "LOC84856"        "LOC84931"       
+ [833] "LOC90246"        "LOXL3"           "LPAR3"           "LPPR4"          
+ [837] "LPXN"            "LQK1"            "LRIT2"           "LRRC10B"        
+ [841] "LRRC31"          "LRRC43"          "LRRC4C"          "LRRC8A"         
+ [845] "LRRC8B"          "LRTM1"           "LSG1"            "LSM14A"         
+ [849] "LTA4H"           "LY6G6C"          "LY6K"            "LYPLA2P1"       
+ [853] "LYVE1"           "LYZL2"           "MACC1"           "MAFA"           
+ [857] "MAFF"            "MAGEA1"          "MAGEA4"          "MAGEA9B"        
+ [861] "MAGEB16"         "MAGEB1"          "MAGEB2"          "MAGEB4"         
+ [865] "MAK16"           "MAP2K6"          "MAP3K4"          "MAP7D3"         
+ [869] "MAPK1IP1L"       "MAPKAP1"         "MAPKAPK3"        "MAPRE1"         
+ [873] "MARCO"           "MARS2"           "MBIP"            "MC1R"           
+ [877] "MC4R"            "MCART2"          "MCCD1"           "MCTS1"          
+ [881] "MDC1"            "MDGA1"           "MECOM"           "MECP2"          
+ [885] "MED17"           "MED28"           "MED8"            "MEF2A"          
+ [889] "MEG8"            "MEOX1"           "MFAP2"           "MGAM"           
+ [893] "MGAT4C"          "MGC14436"        "MGC15885"        "MGC45800"       
+ [897] "MGC57346"        "MGP"             "MIA2"            "MID2"           
+ [901] "MIER1"           "MIMT1"           "MINK1"           "MIOX"           
+ [905] "MKX"             "MLF1IP"          "MLXIPL"          "MMRN1"          
+ [909] "MOAP1"           "MOBKL2B"         "MORF4L2"         "MRO"            
+ [913] "MRPL39"          "MRPL42P5"        "MRPS18C"         "MRRF"           
+ [917] "MRVI1"           "MS4A2"           "MS4A3"           "MS4A6E"         
+ [921] "MSL1"            "MSTN"            "MSTO1"           "MT1A"           
+ [925] "MTA2"            "MTA3"            "MTERFD2"         "MTHFR"          
+ [929] "MTNR1A"          "MTTP"            "MUC17"           "MUC2"           
+ [933] "MUM1"            "MX2"             "MYH7B"           "MYO16"          
+ [937] "NAB2"            "NAGS"            "NBEAL2"          "NBPF15"         
+ [941] "NCAM2"           "NCAPD3"          "NCEH1"           "NCKIPSD"        
+ [945] "NCL"             "NCRNA00175"      "NDST4"           "NDUFB4"         
+ [949] "NDUFS2"          "NEDD1"           "NEK1"            "NEURL4"         
+ [953] "NEUROG2"         "NFE2"            "NFKBIZ"          "NFRKB"          
+ [957] "NIPA1"           "NIPA2"           "NIPAL4"          "NIPSNAP3A"      
+ [961] "NIT1"            "NKAIN2"          "NKAP"            "NKX2-8"         
+ [965] "NLE1"            "NLGN4X"          "NLRC4"           "NLRP13"         
+ [969] "NLRP2"           "NLRP6"           "NME4"            "NMNAT1"         
+ [973] "NONO"            "NOS1"            "NOTCH2"          "NOTUM"          
+ [977] "NOV"             "NPAS3"           "NPC1L1"          "NPEPL1"         
+ [981] "NPEPPS"          "NPNT"            "NPY1R"           "NQO2"           
+ [985] "NR0B1"           "NR4A3"           "NRBP1"           "NRIP1"          
+ [989] "NT5C1A"          "NT5DC3"          "NTF3"            "NUP35"          
+ [993] "NUP43"           "NUP62CL"         "NXNL2"           "OCRL"           
+ [997] "ODF2"            "OOEP"            "OPN4"            "OR10V1"         
+[1001] "OR13A1"          "OR1C1"           "OR1F1"           "OR2C3"          
+[1005] "OR2L13"          "OR2L2"           "OR2L3"           "OR4C6"          
+[1009] "OR52D1"          "OR52E6"          "OR52I1"          "OR56B4"         
+[1013] "OR5K1"           "OR5K2"           "OR5P3"           "OR7C1"          
+[1017] "OSBPL2"          "OSBPL5"          "OTUB2"           "OTUD3"          
+[1021] "OTUD7A"          "OTX2"            "P2RX4"           "P2RY12"         
+[1025] "PACRGL"          "PACS1"           "PAICS"           "PAK6"           
+[1029] "PAQR8"           "PAR1"            "PATE2"           "PAX3"           
+[1033] "PAX7"            "PBLD"            "PCBP1"           "PCDH10"         
+[1037] "PCDH17"          "PCDHA1"          "PCDHGA1"         "PCDHGA2"        
+[1041] "PCDHGA3"         "PCDHGB8P"        "PCGF5"           "PCMT1"          
+[1045] "PCSK7"           "PCYT1A"          "PDCD2L"          "PDE4A"          
+[1049] "PDE4B"           "PDE4DIP"         "PDE6G"           "PDE8A"          
+[1053] "PEG10"           "PELO"            "PEX5L"           "PFKL"           
+[1057] "PGAM4"           "PGAP3"           "PGK1"            "PGM2L1"         
+[1061] "PGM5"            "PHACTR1"         "PHAX"            "PHF14"          
+[1065] "PHF20"           "PHF6"            "PHKB"            "PHYHIPL"        
+[1069] "PI4KB"           "PIGF"            "PIGK"            "PIK3CA"         
+[1073] "PINK1"           "PINX1"           "PITPNB"          "PITRM1"         
+[1077] "PKHD1"           "PLA2G2C"         "PLA2G2D"         "PLA2G7"         
+[1081] "PLAT"            "PLCE1"           "PLCZ1"           "PLEKHF1"        
+[1085] "PLEKHH1"         "PLEKHM1"         "PLP1"            "PLP2"           
+[1089] "PLRG1"           "PLXNB2"          "PMFBP1"          "PMPCB"          
+[1093] "PMS2L1"          "PNKD"            "PNMA1"           "PNRC2"          
+[1097] "POLR2B"          "POM121L10P"      "POM121L4P"       "PON1"           
+[1101] "POTEB"           "POU3F3"          "PPA2"            "PPAP2C"         
+[1105] "PPFIA3"          "PPFIBP2"         "PPID"            "PPM1B"          
+[1109] "PPOX"            "PPP1R14D"        "PPP1R16B"        "PPP2R2A"        
+[1113] "PRCP"            "PRDM10"          "PRDM13"          "PRELID2"        
+[1117] "PRMT6"           "PRO0628"         "PROX2"           "PRPF3"          
+[1121] "PRR16"           "PRR18"           "PSD2"            "PSMA7"          
+[1125] "PSME1"           "PSME2"           "PSMG1"           "PTCD2"          
+[1129] "PTGES3"          "PTGIR"           "PTMA"            "PTN"            
+[1133] "PTPN18"          "PTPN20A"         "PTPRE"           "PTPRH"          
+[1137] "PVRL2"           "PVRL4"           "PVT1"            "PWP2"           
+[1141] "PYDC1"           "PYROXD1"         "PZP"             "QARS"           
+[1145] "QRFPR"           "RABGAP1"         "RACGAP1P"        "RAD23B"         
+[1149] "RAD50"           "RAPGEFL1"        "RARA"            "RASD1"          
+[1153] "RASGEF1C"        "RASGRP1"         "RASL11B"         "RAVER2"         
+[1157] "RBM12"           "RBM15B"          "RBM20"           "RBM45"          
+[1161] "RBMXL1"          "RD3"             "RDH11"           "RECQL"          
+[1165] "REG4"            "RELA"            "REM2"            "REP15"          
+[1169] "REXO2"           "RFPL1"           "RFPL3"           "RFX6"           
+[1173] "RFX8"            "RGL1"            "RGPD8"           "RGS20"          
+[1177] "RGS2"            "RGS6"            "RHCE"            "RHOU"           
+[1181] "RHOV"            "RLN1"            "RLN2"            "RNASE1"         
+[1185] "RNASE3"          "RNF216"          "RNF217"          "ROBO3"          
+[1189] "RP1-177G6.2"     "RP1L1"           "RP2"             "RPA4"           
+[1193] "RPAP1"           "RPL12"           "RPL13P5"         "RPL14"          
+[1197] "RPL19P12"        "RPL27"           "RPL29"           "RPL31P11"       
+[1201] "RPL31"           "RPL34"           "RPL38"           "RPL3"           
+[1205] "RPL41"           "RPS10P7"         "RPS13"           "RPS18"          
+[1209] "RPS2"            "RPS4X"           "RPS6KA2"         "RPS6KA3"        
+[1213] "RPS8"            "RRAGD"           "RRN3P2"          "RSAD2"          
+[1217] "RTN4RL1"         "RUNX1"           "RXFP1"           "SAA2"           
+[1221] "SACM1L"          "SALL2"           "SAP130"          "SARM1"          
+[1225] "SAV1"            "SCAMP3"          "SCFD1"           "SCFD2"          
+[1229] "SCG2"            "SCG5"            "SCGB1D2"         "SCML1"          
+[1233] "SCN3A"           "SCNN1B"          "SCUBE2"          "SDC3"           
+[1237] "SDCBP2"          "SDHAP1"          "SEC14L3"         "SEC22B"         
+[1241] "SEH1L"           "SEL1L"           "SELE"            "SELL"           
+[1245] "SEMA3E"          "SEMA4A"          "SERGEF"          "SERINC3"        
+[1249] "SERPINA3"        "SERPINE3"        "SERTAD1"         "SETD3"          
+[1253] "SEZ6L"           "SFMBT1"          "SFRP5"           "SFT2D3"         
+[1257] "SGMS1"           "SGPP1"           "SGSM1"           "SH2D2A"         
+[1261] "SH3BP1"          "SH3BP5L"         "SH3GL1"          "SH3GL3"         
+[1265] "SH3KBP1"         "SHBG"            "SHOX"            "SIGLEC1"        
+[1269] "SKIV2L"          "SLC10A5"         "SLC14A2"         "SLC19A2"        
+[1273] "SLC20A2"         "SLC25A14"        "SLC25A41"        "SLC27A6"        
+[1277] "SLC30A5"         "SLC34A2"         "SLC35C1"         "SLC35C2"        
+[1281] "SLC38A6"         "SLC39A7"         "SLC40A1"         "SLC45A1"        
+[1285] "SLC45A2"         "SLC46A2"         "SLC4A11"         "SLC5A11"        
+[1289] "SLC5A1"          "SLC6A3"          "SLFN11"          "SLFN12"         
+[1293] "SLITRK3"         "SMARCC1"         "SMPD4"           "SMPDL3A"        
+[1297] "SMU1"            "SMURF2"          "SNORA8"          "SNRK"           
+[1301] "SNRNP27"         "SNTA1"           "SNURF"           "SNW1"           
+[1305] "SNX15"           "SOCS2"           "SOX13"           "SOX3"           
+[1309] "SP5"             "SP8"             "SPANXB2"         "SPATA5L1"       
+[1313] "SPCS3"           "SPIB"            "SPINK2"          "SPINT1"         
+[1317] "SPIRE1"          "SPNS2"           "SPTY2D1"         "SSTR1"          
+[1321] "ST14"            "ST20"            "ST6GAL1"         "ST6GALNAC2"     
+[1325] "ST6GALNAC4"      "ST7OT2"          "ST8SIA1"         "STAB2"          
+[1329] "STAC2"           "STAR"            "STAT1"           "STEAP4"         
+[1333] "STK19"           "STL"             "STOML1"          "STOM"           
+[1337] "STRN3"           "STX11"           "STX6"            "STXBP5"         
+[1341] "SUGT1P1"         "SULT4A1"         "SUSD4"           "SVIP"           
+[1345] "SYNM"            "SYNPR"           "SYS1-DBNDD2"     "SYT15"          
+[1349] "TACC2"           "TAL2"            "TANK"            "TARP"           
+[1353] "TAS2R14"         "TAS2R20"         "TAS2R30"         "TAS2R43"        
+[1357] "TAS2R4"          "TAS2R50"         "TAS2R5"          "TAS2R60"        
+[1361] "TAS2R9"          "TBC1D4"          "TBX10"           "TCL6"           
+[1365] "TCN2"            "TCP1"            "TEX12"           "TFB1M"          
+[1369] "TFF3"            "TGIF1"           "TGM2"            "THAP8"          
+[1373] "THOC2"           "THPO"            "TH"              "TIGD4"          
+[1377] "TIMM9"           "TINAGL1"         "TIRAP"           "TM4SF18"        
+[1381] "TM4SF20"         "TMC3"            "TMC5"            "TMC7"           
+[1385] "TMED10"          "TMED3"           "TMEM132D"        "TMEM14B"        
+[1389] "TMEM156"         "TMEM163"         "TMEM179B"        "TMEM223"        
+[1393] "TMEM229B"        "TMEM30B"         "TMEM31"          "TMEM41A"        
+[1397] "TMEM49"          "TMEM56"          "TMEM87A"         "TMEM90A"        
+[1401] "TMPO"            "TMPRSS3"         "TMTC1"           "TMTC2"          
+[1405] "TMX1"            "TNFAIP6"         "TNFRSF10A"       "TNFRSF10D"      
+[1409] "TNFSF12-TNFSF13" "TNFSF15"         "TNFSF4"          "TNN"            
+[1413] "TOMM22"          "TOP2A"           "TOX2"            "TP53AIP1"       
+[1417] "TPM1"            "TPSD1"           "TPT1"            "TRA2A"          
+[1421] "TRERF1"          "TRIL"            "TRIM15"          "TRIM17"         
+[1425] "TRIM49"          "TRIM67"          "TRMT2B"          "TRMT5"          
+[1429] "TRMT61B"         "TRPC5"           "TRPC6"           "TRPM2"          
+[1433] "TSG101"          "TSGA13"          "TSHB"            "TSLP"           
+[1437] "TSPAN6"          "TSPO2"           "TSPYL5"          "TSSK6"          
+[1441] "TTC12"           "TTC8"            "TTPA"            "TUBAL3"         
+[1445] "TUBB4"           "TUBG2"           "TUBGCP5"         "TXNDC6"         
+[1449] "UBA2"            "UBA5"            "UBE2A"           "UBE2J1"         
+[1453] "UBE2L6"          "UBE2QL1"         "UBE2R2"          "UGDH"           
+[1457] "UGT1A10"         "UGT3A1"          "UNC5D"           "UNKL"           
+[1461] "USF1"            "USF2"            "USP1"            "USP21"          
+[1465] "USP33"           "USP3"            "UTP14A"          "UTP15"          
+[1469] "VAPB"            "VCP"             "VDAC1"           "VDAC3"          
+[1473] "VPS18"           "VPS36"           "VPS37C"          "VPS39"          
+[1477] "VSIG1"           "VSIG8"           "VSTM2A"          "VWA5A"          
+[1481] "VWC2"            "WARS2"           "WBP11P1"         "WDR11"          
+[1485] "WDR66"           "WDR89"           "WDR93"           "WFDC12"         
+[1489] "WHAMML1"         "WIPF2"           "WLS"             "WNK3"           
+[1493] "WNT3A"           "WNT6"            "WSCD2"           "WWC3"           
+[1497] "XG"              "XKR3"            "XKR7"            "XPO4"           
+[1501] "XRCC4"           "XRN2"            "XRRA1"           "XYLT1"          
+[1505] "YME1L1"          "ZAR1"            "ZBED1"           "ZBED2"          
+[1509] "ZBED5"           "ZBTB12"          "ZBTB22"          "ZC3H12A"        
+[1513] "ZC3H14"          "ZC4H2"           "ZDHHC2"          "ZFAND2A"        
+[1517] "ZFC3H1"          "ZFP3"            "ZFP91-CNTF"      "ZFYVE19"        
+[1521] "ZFYVE26"         "ZMAT3"           "ZMAT4"           "ZMYND8"         
+[1525] "ZNF239"          "ZNF277"          "ZNF302"          "ZNF32"          
+[1529] "ZNF33A"          "ZNF37A"          "ZNF382"          "ZNF395"         
+[1533] "ZNF407"          "ZNF449"          "ZNF485"          "ZNF486"         
+[1537] "ZNF48"           "ZNF510"          "ZNF548"          "ZNF567"         
+[1541] "ZNF596"          "ZNF665"          "ZNF683"          "ZNF697"         
+[1545] "ZNF727"          "ZNF75D"          "ZNF79"           "ZNF835"         
+[1549] "ZNF843"          "ZNHIT6"          "ZP1"             "ZPBP"           
+[1553] "ZSCAN23"         "ZSWIM1"          "ZSWIM3"         
+
+$pvalue.train
+[1] 0
+
+$pvalue.test
+[1] 0.001009468
+
+$iteration.nr
+[1] 19
+
+$cindex.train
+[1] NA
+
+$cindex.test
+[1] 0.7079225
+
+[1] "----- C-INDEX TRAIN --------------------------------------"
+[1] "average c-index train in successful runs:"
+cindex.train 
+    0.997475 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 45
+[1] "standard deviation of the average c-index train:"
+cindex.train 
+ 0.004565531 
+[1] "----- C-INDEX TEST --------------------------------------"
+[1] "average c-index test in successful runs:"
+cindex.test 
+  0.7008909 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 50
+[1] "standard deviation of the average c-index test:"
+cindex.test 
+ 0.00531148 
+[1] "---------------------------------------------------------"
+Time difference of 2.094109 hours
+null device 
+          1 

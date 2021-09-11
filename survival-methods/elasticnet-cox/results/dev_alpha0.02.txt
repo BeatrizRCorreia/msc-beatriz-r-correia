@@ -1,0 +1,291 @@
+[1] "---------------------------------------------------------------------------------------"
+[1] 1
+[1] "mais uma run successful :)"
+[1] 2
+[1] "mais uma run successful :)"
+[1] 3
+[1] "mais uma run successful :)"
+[1] 4
+[1] "mais uma run successful :)"
+[1] 5
+[1] "mais uma run successful :)"
+[1] 6
+[1] 7
+[1] "mais uma run successful :)"
+[1] 8
+[1] 9
+[1] 10
+[1] "mais uma run successful :)"
+[1] 11
+[1] 12
+[1] 13
+[1] "mais uma run successful :)"
+[1] 14
+[1] "mais uma run successful :)"
+[1] 15
+[1] "mais uma run successful :)"
+[1] 16
+[1] "mais uma run successful :)"
+[1] 17
+[1] "mais uma run successful :)"
+[1] 18
+[1] "mais uma run successful :)"
+[1] 19
+[1] "mais uma run successful :)"
+[1] 20
+[1] "mais uma run successful :)"
+[1] 21
+[1] 22
+[1] "mais uma run successful :)"
+[1] 23
+[1] "mais uma run successful :)"
+[1] 24
+[1] "mais uma run successful :)"
+[1] 25
+[1] "mais uma run successful :)"
+[1] 26
+[1] 27
+[1] "mais uma run successful :)"
+[1] 28
+[1] 29
+[1] "mais uma run successful :)"
+[1] 30
+[1] "mais uma run successful :)"
+[1] 31
+[1] "mais uma run successful :)"
+[1] 32
+[1] 33
+[1] "mais uma run successful :)"
+[1] 34
+[1] "mais uma run successful :)"
+[1] "---------------------------------------------------------"
+[1] "nr of iterations to perform:"
+[1] 25
+[1] "nr of runs executed:"
+[1] 34
+[1] "nr of unsuccessful runs:"
+[1] 9
+[1] "genes selected with the nr of iterations they were selected:"
+LOC100128977       CRISP3       PPFIA3       PCYT1A         PGK1       SHCBP1 
+          25           25           25           25           25           25 
+        IMP5       FIBCD1        WNT3A         IRF2         PELO         TPT1 
+          25           25           25           24           24           24 
+      DCTPP1         PSD2         LSG1    LOC220729         TCP1       LHFPL3 
+          24           24           22           22           22           22 
+        DSG1         RPL3         IL18      SLC20A2     SERPINA3        PCMT1 
+          22           22           22           22           22           22 
+         IYD        GCET2        XRCC4        FAM9C        BAMBI      C8orf55 
+          22           22           22           22           19           19 
+       HSPA8       KCNJ13        ABCG4        SFRP5       AKR1E2         GLUL 
+          19           19           19           19           19           19 
+        JAK1        DHX16        MED17         MAFA         OPN4       ZNF485 
+          19           19           19           16           16           16 
+       NIPA2           XG         OPA1     C11orf20         GFI1         MURC 
+          16           16           16           16           16           16 
+     GPR172A        NDST4       PTGES3          ADK         CSN3     C17orf64 
+          16           16           16           16           16           16 
+      SPINT1         PWP2        PSME1        VSIG8       PCDHA8        HSPA9 
+          16           16           15           15           15           15 
+        TANK       NFKBIA       CRISP2        ATF6B        CLIC6        UBE2A 
+          15           15           15           15           15           15 
+      TRMT2B       MAGEB4        RUNX1         LHX5      CEACAM5        CLDN7 
+          15           15           15           15           15           15 
+       LTA4H        CPEB1      FAM117A        KLRC1 
+          15           15           15           15 
+[1] "---------------------------------------------------------"
+[1] "average nr of genes selected in successful runs:"
+nr.selected.genes 
+               81 
+[1] "standard deviation of the average nr of genes selected in successful runs:"
+nr.selected.genes 
+         60.62145 
+[1] "----- PVALUE TRAIN --------------------------------------"
+[1] "average pvalue train in successful runs:"
+pvalue.train 
+ 7.56127e-08 
+[1] "standard deviation of the average pvalue train:"
+pvalue.train 
+2.286629e-07 
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in statistically significant successful runs:"
+pvalue.train 
+ 7.56127e-08 
+[1] "nr of statistically significant pvalue train successful runs:"
+[1] 25
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in NON-statistically significant successful runs:"
+[1] NA
+[1] "nr of NON-statistically significant pvalue train successful runs:"
+[1] 0
+[1] "----- PVALUE TEST --------------------------------------"
+[1] "average pvalue test in successful runs:"
+pvalue.test 
+  0.5832361 
+[1] "standard deviation of the average pvalue test:"
+pvalue.test 
+  0.1735614 
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in statistically significant successful runs:"
+[1] NA
+[1] "nr of statistically significant pvalue test successful runs:"
+[1] 0
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in NON-statistically significant successful runs:"
+pvalue.test 
+  0.5832361 
+[1] "nr of NON-statistically significant pvalue test successful runs:"
+[1] 25
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue train:"
+$measure
+[1] "deviance"
+
+$alpha
+[1] 0.02
+
+$nr.selected.genes
+[1] 293
+
+$list.of.genes
+  [1] "ABCG4"         "ACOT4"         "ADAM15"        "ADK"          
+  [5] "AIMP1"         "AIMP2"         "AKR1E2"        "ANKRD52"      
+  [9] "APOA5"         "APOOL"         "ARID1B"        "ARL9"         
+ [13] "ATF6B"         "ATG4A"         "ATP5B"         "BAMBI"        
+ [17] "BCL8"          "BHLHE40"       "BSND"          "BTG1"         
+ [21] "C10orf18"      "C11orf20"      "C11orf73"      "C11orf85"     
+ [25] "C11orf90"      "C11orf95"      "C14orf169"     "C15orf39"     
+ [29] "C15orf53"      "C17orf64"      "C17orf99"      "C1orf226"     
+ [33] "C1orf61"       "C21orf99"      "C2orf72"       "C6orf115"     
+ [37] "C6orf138"      "C7orf10"       "C8orf55"       "CAMSAP1"      
+ [41] "CCDC83"        "CD74"          "CDC42SE1"      "CEACAM5"      
+ [45] "CES3"          "CISD1"         "CLDN7"         "CLEC9A"       
+ [49] "CLIC6"         "CLTCL1"        "COLEC10"       "CPEB1"        
+ [53] "CR1L"          "CRISP2"        "CRISP3"        "CRYBA4"       
+ [57] "CSN3"          "CTSW"          "CXXC4"         "CYP27A1"      
+ [61] "DBC1"          "DCAF4"         "DCTPP1"        "DDAH1"        
+ [65] "DHX16"         "DIP2B"         "DKFZp686A1627" "DLG3"         
+ [69] "DLL3"          "DNAH11"        "DSG1"          "DUS2L"        
+ [73] "EDA2R"         "ELFN1"         "ERRFI1"        "ETFA"         
+ [77] "EXD1"          "FAM111A"       "FAM117A"       "FAM98B"       
+ [81] "FAM9C"         "FANCF"         "FEZF2"         "FGF7"         
+ [85] "FHOD1"         "FIBCD1"        "FLT3"          "FMO9P"        
+ [89] "GALK2"         "GALNT9"        "GBGT1"         "GCET2"        
+ [93] "GCNT7"         "GFI1"          "GLUL"          "GPR107"       
+ [97] "GPR172A"       "GPT2"          "GSTM1"         "GSTM2P1"      
+[101] "GSTM2"         "HBS1L"         "HIATL2"        "HMHB1"        
+[105] "HSPA8"         "HSPA9"         "IGSF9B"        "IL18BP"       
+[109] "IL18"          "IMP5"          "IRF2"          "IRGC"         
+[113] "IYD"           "JAK1"          "KCNJ13"        "KCNMB2"       
+[117] "KCNQ4"         "KLHL13"        "KLRB1"         "KLRC1"        
+[121] "KRT12"         "KRT34"         "LACTB2"        "LHFPL3"       
+[125] "LHX5"          "LIMCH1"        "LIN7C"         "LOC100128977" 
+[129] "LOC100133669"  "LOC115110"     "LOC143188"     "LOC220729"    
+[133] "LOC283070"     "LOC339290"     "LOC440461"     "LOC646214"    
+[137] "LOC647859"     "LOC728323"     "LOC729467"     "LOC84856"     
+[141] "LOR"           "LRRC4C"        "LRRC69"        "LSG1"         
+[145] "LTA4H"         "MACC1"         "MAFA"          "MAGEB4"       
+[149] "MAL2"          "MAP2K6"        "MCART2"        "MCTS1"        
+[153] "MDC1"          "MED17"         "MIER1"         "MIMT1"        
+[157] "MMP15"         "MORC4"         "MRE11A"        "MRO"          
+[161] "MRVI1"         "MURC"          "NCCRP1"        "NCRNA00162"   
+[165] "NDST4"         "NFKBIA"        "NIPA2"         "NKAIN2"       
+[169] "NRBP1"         "NRK"           "NT5C1A"        "NT5DC2"       
+[173] "OLIG1"         "OLIG2"         "OPA1"          "OPN4"         
+[177] "OR5AU1"        "PAK6"          "PCDHA8"        "PCDHGA2"      
+[181] "PCGF5"         "PCMT1"         "PCP4"          "PCSK7"        
+[185] "PCYT1A"        "PELO"          "PFKL"          "PGK1"         
+[189] "PHF20"         "PHKB"          "PIK3CA"        "PIRT"         
+[193] "PLA2G2D"       "PLXNB2"        "POP1"          "POU3F3"       
+[197] "PPAP2C"        "PPFIA3"        "PROL1"         "PRSS27"       
+[201] "PSD2"          "PSME1"         "PSME2"         "PTGER3"       
+[205] "PTGES3"        "PTP4A3"        "PTPLA"         "PTPN18"       
+[209] "PUF60"         "PVRL4"         "PWP2"          "QPRT"         
+[213] "REXO2"         "RNF26"         "ROBO3"         "RPL3"         
+[217] "RUNX1"         "SAA1"          "SAA2"          "SAV1"         
+[221] "SCFD2"         "SDC1"          "SDCBP2"        "SDHAP1"       
+[225] "SEC14L3"       "SECISBP2L"     "SEMA3B"        "SERPINA3"     
+[229] "SFRP5"         "SGMS1"         "SHCBP1"        "SHMT2"        
+[233] "SIPA1L1"       "SLC19A1"       "SLC20A2"       "SLC25A32"     
+[237] "SLC2A14"       "SLC39A7"       "SLC45A1"       "SLC45A2"      
+[241] "SLC6A19"       "SLITRK3"       "SNX9"          "SPATA5L1"     
+[245] "SPIB"          "SPINT1"        "SPON2"         "SPRR2G"       
+[249] "SSTR1"         "ST3GAL3"       "STX11"         "STXBP5"       
+[253] "SUN3"          "SURF4"         "SYTL4"         "TACC2"        
+[257] "TAGLN2"        "TANK"          "TBC1D24"       "TBC1D4"       
+[261] "TBP"           "TBX2"          "TBXA2R"        "TCL6"         
+[265] "TCP1"          "TIRAP"         "TLN2"          "TMEM14B"      
+[269] "TMEM31"        "TMEM60"        "TNIP1"         "TPT1"         
+[273] "TRA2A"         "TRMT2B"        "TRPC2"         "TRPM2"        
+[277] "TTC35"         "UBE2A"         "UGDH"          "USPL1"        
+[281] "UTP23"         "VHL"           "VSIG8"         "WNT3A"        
+[285] "XG"            "XRCC4"         "YWHAB"         "ZBED2"        
+[289] "ZFC3H1"        "ZFYVE19"       "ZNF321"        "ZNF485"       
+[293] "ZPBP2"        
+
+$pvalue.train
+[1] 0
+
+$pvalue.test
+[1] 0.4451753
+
+$iteration.nr
+[1] 2
+
+$cindex.train
+[1] 0.8693805
+
+$cindex.test
+[1] 0.6021761
+
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue test:"
+$measure
+[1] "deviance"
+
+$alpha
+[1] 0.02
+
+$nr.selected.genes
+[1] 9
+
+$list.of.genes
+[1] "CRISP3"       "FIBCD1"       "IMP5"         "LOC100128977" "PCYT1A"      
+[6] "PGK1"         "PPFIA3"       "SHCBP1"       "WNT3A"       
+
+$pvalue.train
+[1] 1.824456e-07
+
+$pvalue.test
+[1] 0.1738574
+
+$iteration.nr
+[1] 30
+
+$cindex.train
+[1] 0.74711
+
+$cindex.test
+[1] 0.5967358
+
+[1] "----- C-INDEX TRAIN --------------------------------------"
+[1] "average c-index train in successful runs:"
+cindex.train 
+   0.8092471 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 25
+[1] "standard deviation of the average c-index train:"
+cindex.train 
+  0.03128049 
+[1] "----- C-INDEX TEST --------------------------------------"
+[1] "average c-index test in successful runs:"
+cindex.test 
+  0.5943693 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 25
+[1] "standard deviation of the average c-index test:"
+cindex.test 
+0.003651357 
+[1] "---------------------------------------------------------"
+Time difference of 2.582798 hours
+null device 
+          1 

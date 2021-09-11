@@ -1,0 +1,247 @@
+[1] "---------------------------------------------------------------------------------------"
+[1] 1
+[1] "mais uma run successful :)"
+[1] 2
+[1] "mais uma run successful :)"
+[1] 3
+[1] "mais uma run successful :)"
+[1] 4
+[1] 5
+[1] 6
+[1] 7
+[1] "mais uma run successful :)"
+[1] 8
+[1] 9
+[1] 10
+[1] "mais uma run successful :)"
+[1] 11
+[1] 12
+[1] 13
+[1] "mais uma run successful :)"
+[1] 14
+[1] "mais uma run successful :)"
+[1] 15
+[1] "mais uma run successful :)"
+[1] 16
+[1] "mais uma run successful :)"
+[1] 17
+[1] "mais uma run successful :)"
+[1] 18
+[1] "mais uma run successful :)"
+[1] 19
+[1] "mais uma run successful :)"
+[1] 20
+[1] "mais uma run successful :)"
+[1] 21
+[1] 22
+[1] "mais uma run successful :)"
+[1] 23
+[1] "mais uma run successful :)"
+[1] 24
+[1] "mais uma run successful :)"
+[1] 25
+[1] "mais uma run successful :)"
+[1] 26
+[1] 27
+[1] 28
+[1] 29
+[1] "mais uma run successful :)"
+[1] 30
+[1] "mais uma run successful :)"
+[1] 31
+[1] "mais uma run successful :)"
+[1] 32
+[1] 33
+[1] "mais uma run successful :)"
+[1] 34
+[1] "mais uma run successful :)"
+[1] 35
+[1] "mais uma run successful :)"
+[1] 36
+[1] "mais uma run successful :)"
+[1] 37
+[1] "mais uma run successful :)"
+[1] "---------------------------------------------------------"
+[1] "nr of iterations to perform:"
+[1] 25
+[1] "nr of runs executed:"
+[1] 37
+[1] "nr of unsuccessful runs:"
+[1] 12
+[1] "genes selected with the nr of iterations they were selected:"
+        PGK1       SHCBP1        WNT3A       FIBCD1         IMP5       PPFIA3 
+          25           24           24           24           24           24 
+      PCYT1A LOC100128977       CRISP3         PSD2         IRF2         TPT1 
+          24           24           24           21           21           21 
+      DCTPP1         IL18    LOC220729          IYD         DSG1        XRCC4 
+          21           19           19           19           19           19 
+       GCET2     SERPINA3        PCMT1         PELO      SLC20A2         LSG1 
+          19           19           19           19           19           19 
+       FAM9C       LHFPL3        ABCG4        BAMBI         TCP1         JAK1 
+          19           17           17           17           17           17 
+       SFRP5       KCNJ13         GLUL        MED17         RPL3 
+          17           17           17           17           17 
+[1] "---------------------------------------------------------"
+[1] "average nr of genes selected in successful runs:"
+nr.selected.genes 
+             44.2 
+[1] "standard deviation of the average nr of genes selected in successful runs:"
+nr.selected.genes 
+         33.63332 
+[1] "----- PVALUE TRAIN --------------------------------------"
+[1] "average pvalue train in successful runs:"
+pvalue.train 
+7.728308e-07 
+[1] "standard deviation of the average pvalue train:"
+pvalue.train 
+3.583884e-06 
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in statistically significant successful runs:"
+pvalue.train 
+7.728308e-07 
+[1] "nr of statistically significant pvalue train successful runs:"
+[1] 25
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in NON-statistically significant successful runs:"
+[1] NA
+[1] "nr of NON-statistically significant pvalue train successful runs:"
+[1] 0
+[1] "----- PVALUE TEST --------------------------------------"
+[1] "average pvalue test in successful runs:"
+pvalue.test 
+  0.4044215 
+[1] "standard deviation of the average pvalue test:"
+pvalue.test 
+  0.1644938 
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in statistically significant successful runs:"
+[1] NA
+[1] "nr of statistically significant pvalue test successful runs:"
+[1] 0
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in NON-statistically significant successful runs:"
+pvalue.test 
+  0.4044215 
+[1] "nr of NON-statistically significant pvalue test successful runs:"
+[1] 25
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue train:"
+$measure
+[1] "deviance"
+
+$alpha
+[1] 0.049
+
+$nr.selected.genes
+[1] 168
+
+$list.of.genes
+  [1] "ABCG4"         "ADK"           "AKR1E2"        "ANKRD52"      
+  [5] "APOA5"         "ARID1B"        "ATF6B"         "BAMBI"        
+  [9] "BCL8"          "BTG1"          "C10orf18"      "C11orf20"     
+ [13] "C11orf85"      "C11orf90"      "C14orf169"     "C17orf64"     
+ [17] "C17orf99"      "C1orf226"      "C21orf99"      "C2orf72"      
+ [21] "C8orf55"       "CEACAM5"       "CES3"          "CISD1"        
+ [25] "CLDN7"         "CLIC6"         "COLEC10"       "CPEB1"        
+ [29] "CR1L"          "CRISP2"        "CRISP3"        "CRYBA4"       
+ [33] "CSN3"          "DBC1"          "DCTPP1"        "DDAH1"        
+ [37] "DHX16"         "DKFZp686A1627" "DSG1"          "EDA2R"        
+ [41] "ETFA"          "FAM117A"       "FAM98B"        "FAM9C"        
+ [45] "FEZF2"         "FGF7"          "FIBCD1"        "FMO9P"        
+ [49] "GBGT1"         "GCET2"         "GCNT7"         "GFI1"         
+ [53] "GLUL"          "GPR172A"       "GSTM1"         "GSTM2P1"      
+ [57] "GSTM2"         "HMHB1"         "HSPA8"         "IL18BP"       
+ [61] "IL18"          "IMP5"          "IRF2"          "IRGC"         
+ [65] "IYD"           "JAK1"          "KCNJ13"        "KCNMB2"       
+ [69] "KLHL13"        "KLRC1"         "KRT12"         "KRT34"        
+ [73] "LHFPL3"        "LHX5"          "LIMCH1"        "LOC100128977" 
+ [77] "LOC143188"     "LOC220729"     "LOC283070"     "LOC440461"    
+ [81] "LOC647859"     "LOC728323"     "LOC84856"      "LOR"          
+ [85] "LSG1"          "LTA4H"         "MACC1"         "MAFA"         
+ [89] "MAGEB4"        "MAP2K6"        "MCTS1"         "MDC1"         
+ [93] "MED17"         "MIMT1"         "MORC4"         "MURC"         
+ [97] "NCRNA00162"    "NDST4"         "NFKBIA"        "NIPA2"        
+[101] "NKAIN2"        "NRK"           "NT5C1A"        "OPA1"         
+[105] "OPN4"          "PAK6"          "PCDHA8"        "PCDHGA2"      
+[109] "PCMT1"         "PCP4"          "PCSK7"         "PCYT1A"       
+[113] "PELO"          "PFKL"          "PGK1"          "PHKB"         
+[117] "PIK3CA"        "POU3F3"        "PPAP2C"        "PPFIA3"       
+[121] "PROL1"         "PSD2"          "PSME1"         "PSME2"        
+[125] "PTGES3"        "PTP4A3"        "PUF60"         "PWP2"         
+[129] "REXO2"         "ROBO3"         "RPL3"          "RUNX1"        
+[133] "SAA1"          "SAV1"          "SDC1"          "SDHAP1"       
+[137] "SEC14L3"       "SERPINA3"      "SFRP5"         "SHCBP1"       
+[141] "SIPA1L1"       "SLC20A2"       "SNX9"          "SPINT1"       
+[145] "STX11"         "STXBP5"        "SUN3"          "TANK"         
+[149] "TBC1D24"       "TBC1D4"        "TBXA2R"        "TCL6"         
+[153] "TCP1"          "TIRAP"         "TLN2"          "TMEM31"       
+[157] "TPT1"          "TRMT2B"        "UBE2A"         "USPL1"        
+[161] "VSIG8"         "WNT3A"         "XG"            "XRCC4"        
+[165] "ZBED2"         "ZFYVE19"       "ZNF485"        "ZPBP2"        
+
+$pvalue.train
+[1] 0
+
+$pvalue.test
+[1] 0.2456137
+
+$iteration.nr
+[1] 2
+
+$cindex.train
+[1] 0.8744195
+
+$cindex.test
+[1] 0.5892554
+
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue test:"
+$measure
+[1] "deviance"
+
+$alpha
+[1] 0.049
+
+$nr.selected.genes
+[1] 1
+
+$list.of.genes
+[1] "PGK1"
+
+$pvalue.train
+[1] 1.832617e-05
+
+$pvalue.test
+[1] 0.06398939
+
+$iteration.nr
+[1] 3
+
+$cindex.train
+[1] 0.6741676
+
+$cindex.test
+[1] 0.6314179
+
+[1] "----- C-INDEX TRAIN --------------------------------------"
+[1] "average c-index train in successful runs:"
+cindex.train 
+   0.7919771 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 25
+[1] "standard deviation of the average c-index train:"
+cindex.train 
+  0.04039707 
+[1] "----- C-INDEX TEST --------------------------------------"
+[1] "average c-index test in successful runs:"
+cindex.test 
+  0.5967766 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 25
+[1] "standard deviation of the average c-index test:"
+cindex.test 
+0.009075587 
+[1] "---------------------------------------------------------"
+Time difference of 2.862502 hours
+null device 
+          1 

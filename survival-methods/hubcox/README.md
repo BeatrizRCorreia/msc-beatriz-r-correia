@@ -8,7 +8,7 @@ The **network** parameter is responsible for the generation of the network. Ther
 
 The **cutoff** value is a real number that represents a threshold to remove edges from the network, 0.005 was used.
 
-The *min-degree* defines the minimum value that the weights for the features can have, this was set to 0.6.
+The **min-degree** defines the minimum value that the weights for the features can have, this was set to 0.6.
 
 Both the network, the cutoff and the min-degree were set to those values because these allowed to obtain a set of genes with TCGA data for colorectal cancer survival data ([TCox paper](https://www.mdpi.com/2227-9059/8/11/488) with code available [here](https://github.com/sysbiomed/TCox)). When they were tested for the breast data, they also manage to select genes.
 

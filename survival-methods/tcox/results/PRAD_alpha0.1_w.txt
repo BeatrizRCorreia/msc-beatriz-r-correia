@@ -1,0 +1,999 @@
+[1] "---------------------------------------------------------------------------------------"
+[1] "---------------------------------------------------------------------------------------"
+[1] "TIME TO LOAD DATA"
+Time difference of 4.770647 mins
+[1] "Dissimilarity matrix calculation starting..."
+[1] "TRAIN/TEST SETS"
+[1]   864 19045
+[1]   398 19019
+[1]   216 19045
+[1]    99 19019
+[1] "-----------"
+[1]   864 18767
+[1]   398 18767
+[1]   216 18767
+[1]    99 18767
+[1] "END TRAIN/TEST SETS"
+[1]  1080 18767
+[1]   497 18767
+[1]  1080 18767
+[1]   497 18767
+[1] "DISSIMILARITY MATRIX CALCULATED ......................................................................"
+[1] "TIME TO CALCULATE DISSIMILARITY MATRIX"
+Time difference of 13.88713 mins
+[1] 1
+Time difference of 3.876006 mins
+[1] 2
+Time difference of 3.855002 mins
+[1] 3
+Time difference of 3.891177 mins
+[1] 4
+Time difference of 3.700609 mins
+[1] 5
+Time difference of 3.824372 mins
+[1] 6
+Time difference of 3.829685 mins
+[1] 7
+Time difference of 3.736728 mins
+[1] 8
+Time difference of 3.872174 mins
+[1] 9
+Time difference of 3.762492 mins
+[1] 10
+Time difference of 3.774991 mins
+[1] 11
+Time difference of 3.926406 mins
+[1] 12
+Time difference of 3.843844 mins
+[1] 13
+Time difference of 3.838043 mins
+[1] 14
+Time difference of 3.824027 mins
+[1] 15
+Time difference of 3.794152 mins
+[1] 16
+Time difference of 3.69046 mins
+[1] 17
+Time difference of 3.729582 mins
+[1] 18
+Time difference of 3.848952 mins
+[1] 19
+Time difference of 3.866643 mins
+[1] 20
+Time difference of 3.785548 mins
+[1] 21
+Time difference of 3.855868 mins
+[1] 22
+Time difference of 3.802502 mins
+[1] 23
+Time difference of 3.692943 mins
+[1] 24
+Time difference of 3.799344 mins
+[1] 25
+Time difference of 3.721117 mins
+[1] 26
+Time difference of 3.7228 mins
+[1] 27
+Time difference of 3.885163 mins
+[1] 28
+Time difference of 3.692656 mins
+[1] 29
+Time difference of 3.801947 mins
+[1] 30
+Time difference of 3.716358 mins
+[1] 31
+Time difference of 3.760131 mins
+[1] 32
+Time difference of 3.811587 mins
+[1] 33
+Time difference of 3.689587 mins
+[1] 34
+Time difference of 3.770503 mins
+[1] 35
+Time difference of 3.742992 mins
+[1] 36
+Time difference of 3.836797 mins
+[1] 37
+Time difference of 3.873677 mins
+[1] 38
+Time difference of 3.857783 mins
+[1] 39
+Time difference of 3.842796 mins
+[1] 40
+Time difference of 3.84864 mins
+[1] 41
+Time difference of 3.713748 mins
+[1] 42
+Time difference of 3.686352 mins
+[1] 43
+Time difference of 3.833843 mins
+[1] 44
+Time difference of 3.883046 mins
+[1] 45
+Time difference of 3.82841 mins
+[1] 46
+Time difference of 3.698365 mins
+[1] 47
+Time difference of 3.782533 mins
+[1] 48
+Time difference of 3.674433 mins
+[1] 49
+Time difference of 3.791649 mins
+[1] 50
+Time difference of 3.639999 mins
+[1] 51
+Time difference of 3.798953 mins
+[1] 52
+Time difference of 3.772189 mins
+[1] 53
+Time difference of 3.832275 mins
+[1] 54
+Time difference of 3.729491 mins
+[1] 55
+Time difference of 3.754748 mins
+[1] 56
+Time difference of 3.684609 mins
+[1] 57
+Time difference of 3.670399 mins
+[1] 58
+Time difference of 3.727399 mins
+[1] 59
+Time difference of 3.58507 mins
+[1] 60
+Time difference of 3.69144 mins
+[1] 61
+[1] "mais uma run successful :)"
+Time difference of 3.682506 mins
+[1] 62
+Time difference of 3.674472 mins
+[1] 63
+Time difference of 3.790333 mins
+[1] 64
+Time difference of 3.643829 mins
+[1] 65
+Time difference of 3.790077 mins
+[1] 66
+Time difference of 3.659699 mins
+[1] 67
+Time difference of 3.718178 mins
+[1] 68
+Time difference of 3.664193 mins
+[1] 69
+Time difference of 3.75958 mins
+[1] 70
+Time difference of 3.81473 mins
+[1] 71
+[1] "mais uma run successful :)"
+Time difference of 3.770181 mins
+[1] 72
+Time difference of 3.752061 mins
+[1] 73
+Time difference of 3.773019 mins
+[1] 74
+Time difference of 3.814567 mins
+[1] 75
+Time difference of 3.923651 mins
+[1] 76
+Time difference of 3.895169 mins
+[1] 77
+Time difference of 3.787704 mins
+[1] 78
+Time difference of 3.786169 mins
+[1] 79
+Time difference of 3.693497 mins
+[1] 80
+Time difference of 3.794371 mins
+[1] 81
+Time difference of 3.631972 mins
+[1] 82
+Time difference of 3.668865 mins
+[1] 83
+Time difference of 3.760338 mins
+[1] 84
+Time difference of 3.699125 mins
+[1] 85
+[1] "mais uma run successful :)"
+Time difference of 3.726437 mins
+[1] 86
+Time difference of 3.629493 mins
+[1] 87
+Time difference of 3.60852 mins
+[1] 88
+Time difference of 3.633257 mins
+[1] 89
+Time difference of 3.84416 mins
+[1] 90
+Time difference of 3.756819 mins
+[1] 91
+Time difference of 3.742776 mins
+[1] 92
+Time difference of 3.730293 mins
+[1] 93
+Time difference of 3.811835 mins
+[1] 94
+Time difference of 3.725439 mins
+[1] 95
+Time difference of 3.725373 mins
+[1] 96
+[1] "mais uma run successful :)"
+Time difference of 3.752044 mins
+[1] 97
+Time difference of 3.805673 mins
+[1] 98
+Time difference of 3.68378 mins
+[1] 99
+Time difference of 3.640502 mins
+[1] 100
+Time difference of 3.639345 mins
+[1] 101
+Time difference of 3.690547 mins
+[1] 102
+[1] "mais uma run successful :)"
+Time difference of 3.722188 mins
+[1] 103
+Time difference of 3.781611 mins
+[1] 104
+Time difference of 3.647592 mins
+[1] 105
+Time difference of 3.777289 mins
+[1] 106
+Time difference of 3.676491 mins
+[1] 107
+Time difference of 3.738733 mins
+[1] 108
+Time difference of 3.719966 mins
+[1] 109
+Time difference of 3.672011 mins
+[1] 110
+Time difference of 3.764565 mins
+[1] 111
+Time difference of 3.783157 mins
+[1] 112
+Time difference of 3.649579 mins
+[1] 113
+Time difference of 3.722059 mins
+[1] 114
+Time difference of 3.766387 mins
+[1] 115
+Time difference of 3.676606 mins
+[1] 116
+Time difference of 3.791164 mins
+[1] 117
+Time difference of 3.785462 mins
+[1] 118
+Time difference of 3.676074 mins
+[1] 119
+Time difference of 3.678265 mins
+[1] 120
+Time difference of 3.683682 mins
+[1] 121
+Time difference of 3.783584 mins
+[1] 122
+Time difference of 3.742189 mins
+[1] 123
+Time difference of 3.790931 mins
+[1] 124
+Time difference of 3.779624 mins
+[1] 125
+Time difference of 3.649687 mins
+[1] 126
+Time difference of 3.631066 mins
+[1] 127
+Time difference of 3.678268 mins
+[1] 128
+Time difference of 3.77027 mins
+[1] 129
+Time difference of 3.777153 mins
+[1] 130
+Time difference of 3.751376 mins
+[1] 131
+Time difference of 3.77432 mins
+[1] 132
+Time difference of 3.714806 mins
+[1] 133
+Time difference of 3.69279 mins
+[1] 134
+Time difference of 3.664092 mins
+[1] 135
+Time difference of 3.817689 mins
+[1] 136
+Time difference of 3.675023 mins
+[1] 137
+Time difference of 3.685936 mins
+[1] 138
+Time difference of 3.703353 mins
+[1] 139
+Time difference of 3.602553 mins
+[1] 140
+Time difference of 3.745167 mins
+[1] 141
+Time difference of 3.698255 mins
+[1] 142
+Time difference of 3.700515 mins
+[1] 143
+Time difference of 3.864978 mins
+[1] 144
+Time difference of 3.784822 mins
+[1] 145
+Time difference of 3.750303 mins
+[1] 146
+Time difference of 3.668874 mins
+[1] 147
+Time difference of 3.713721 mins
+[1] 148
+Time difference of 3.860441 mins
+[1] 149
+Time difference of 3.737314 mins
+[1] 150
+Time difference of 3.739078 mins
+[1] 151
+Time difference of 3.560084 mins
+[1] 152
+Time difference of 3.756719 mins
+[1] 153
+Time difference of 3.724594 mins
+[1] 154
+Time difference of 3.84386 mins
+[1] 155
+Time difference of 3.700136 mins
+[1] 156
+Time difference of 3.920977 mins
+[1] 157
+Time difference of 3.767751 mins
+[1] 158
+Time difference of 3.75499 mins
+[1] 159
+Time difference of 3.694185 mins
+[1] 160
+Time difference of 3.704737 mins
+[1] 161
+Time difference of 3.694316 mins
+[1] 162
+Time difference of 3.774409 mins
+[1] 163
+Time difference of 3.685476 mins
+[1] 164
+Time difference of 3.715918 mins
+[1] 165
+Time difference of 3.702496 mins
+[1] 166
+Time difference of 3.759513 mins
+[1] 167
+Time difference of 3.725418 mins
+[1] 168
+Time difference of 3.797516 mins
+[1] 169
+Time difference of 3.799592 mins
+[1] 170
+Time difference of 3.744038 mins
+[1] 171
+Time difference of 3.770284 mins
+[1] 172
+Time difference of 3.791156 mins
+[1] 173
+Time difference of 3.721695 mins
+[1] 174
+Time difference of 3.746329 mins
+[1] 175
+Time difference of 3.666951 mins
+[1] 176
+Time difference of 3.744641 mins
+[1] 177
+Time difference of 3.810947 mins
+[1] 178
+Time difference of 3.646853 mins
+[1] 179
+Time difference of 3.724599 mins
+[1] 180
+[1] "mais uma run successful :)"
+Time difference of 3.786413 mins
+[1] 181
+Time difference of 3.734957 mins
+[1] 182
+Time difference of 3.705154 mins
+[1] 183
+Time difference of 3.658637 mins
+[1] 184
+Time difference of 3.708529 mins
+[1] 185
+Time difference of 3.792786 mins
+[1] 186
+Time difference of 3.682399 mins
+[1] 187
+Time difference of 3.722201 mins
+[1] 188
+Time difference of 3.689037 mins
+[1] 189
+Time difference of 3.746204 mins
+[1] 190
+Time difference of 3.733891 mins
+[1] 191
+Time difference of 3.763978 mins
+[1] 192
+Time difference of 3.744666 mins
+[1] 193
+Time difference of 3.693953 mins
+[1] 194
+Time difference of 3.740756 mins
+[1] 195
+Time difference of 3.822381 mins
+[1] 196
+Time difference of 3.779851 mins
+[1] 197
+Time difference of 3.782477 mins
+[1] 198
+Time difference of 3.710515 mins
+[1] 199
+Time difference of 3.739718 mins
+[1] 200
+Time difference of 3.706193 mins
+[1] 201
+Time difference of 3.575042 mins
+[1] 202
+Time difference of 3.697926 mins
+[1] 203
+Time difference of 3.658267 mins
+[1] 204
+Time difference of 3.757099 mins
+[1] 205
+Time difference of 3.651278 mins
+[1] 206
+Time difference of 3.846283 mins
+[1] 207
+Time difference of 3.758388 mins
+[1] 208
+Time difference of 3.750016 mins
+[1] 209
+Time difference of 3.773869 mins
+[1] 210
+Time difference of 3.77825 mins
+[1] 211
+Time difference of 3.592812 mins
+[1] 212
+Time difference of 3.761078 mins
+[1] 213
+Time difference of 3.682285 mins
+[1] 214
+Time difference of 3.627146 mins
+[1] 215
+Time difference of 3.760821 mins
+[1] 216
+Time difference of 3.750677 mins
+[1] 217
+Time difference of 3.739465 mins
+[1] 218
+Time difference of 3.640985 mins
+[1] 219
+Time difference of 3.607771 mins
+[1] 220
+[1] "mais uma run successful :)"
+Time difference of 3.778218 mins
+[1] 221
+Time difference of 3.792383 mins
+[1] 222
+Time difference of 3.769699 mins
+[1] 223
+Time difference of 3.713051 mins
+[1] 224
+Time difference of 3.648304 mins
+[1] 225
+Time difference of 3.721431 mins
+[1] 226
+Time difference of 3.580393 mins
+[1] 227
+Time difference of 3.711676 mins
+[1] 228
+Time difference of 3.712717 mins
+[1] 229
+Time difference of 3.75079 mins
+[1] 230
+Time difference of 3.735017 mins
+[1] 231
+Time difference of 3.747855 mins
+[1] 232
+Time difference of 3.712139 mins
+[1] 233
+Time difference of 3.674925 mins
+[1] 234
+Time difference of 3.796818 mins
+[1] 235
+Time difference of 3.838269 mins
+[1] 236
+Time difference of 3.807339 mins
+[1] 237
+Time difference of 3.667635 mins
+[1] 238
+Time difference of 3.678511 mins
+[1] 239
+Time difference of 3.629515 mins
+[1] 240
+Time difference of 3.69584 mins
+[1] 241
+Time difference of 3.771439 mins
+[1] 242
+Time difference of 3.742224 mins
+[1] 243
+Time difference of 3.74845 mins
+[1] 244
+Time difference of 3.751056 mins
+[1] 245
+Time difference of 3.735 mins
+[1] 246
+Time difference of 3.777397 mins
+[1] 247
+Time difference of 3.658583 mins
+[1] 248
+Time difference of 3.720375 mins
+[1] 249
+Time difference of 3.66216 mins
+[1] 250
+Time difference of 3.73138 mins
+[1] 251
+Time difference of 3.665795 mins
+[1] 252
+Time difference of 3.69112 mins
+[1] 253
+Time difference of 3.707533 mins
+[1] 254
+Time difference of 3.732987 mins
+[1] 255
+Time difference of 3.720899 mins
+[1] 256
+Time difference of 3.770109 mins
+[1] 257
+Time difference of 3.732061 mins
+[1] 258
+Time difference of 3.662665 mins
+[1] 259
+Time difference of 3.678785 mins
+[1] 260
+Time difference of 3.722868 mins
+[1] 261
+Time difference of 3.718984 mins
+[1] 262
+Time difference of 3.792696 mins
+[1] 263
+Time difference of 3.668428 mins
+[1] 264
+Time difference of 3.630661 mins
+[1] 265
+Time difference of 3.736299 mins
+[1] 266
+Time difference of 3.605418 mins
+[1] 267
+Time difference of 3.659972 mins
+[1] 268
+Time difference of 3.706653 mins
+[1] 269
+Time difference of 3.721508 mins
+[1] 270
+Time difference of 3.802062 mins
+[1] 271
+Time difference of 3.677343 mins
+[1] 272
+Time difference of 3.782366 mins
+[1] 273
+Time difference of 3.817803 mins
+[1] 274
+Time difference of 3.831249 mins
+[1] 275
+Time difference of 3.830537 mins
+[1] 276
+Time difference of 3.687194 mins
+[1] 277
+Time difference of 3.692843 mins
+[1] 278
+Time difference of 3.735626 mins
+[1] 279
+Time difference of 3.726809 mins
+[1] 280
+Time difference of 3.688411 mins
+[1] 281
+Time difference of 3.641374 mins
+[1] 282
+Time difference of 3.841673 mins
+[1] 283
+Time difference of 3.803585 mins
+[1] 284
+Time difference of 3.814925 mins
+[1] 285
+Time difference of 3.673013 mins
+[1] 286
+Time difference of 3.821128 mins
+[1] 287
+Time difference of 3.87023 mins
+[1] 288
+Time difference of 3.89868 mins
+[1] 289
+Time difference of 3.792738 mins
+[1] 290
+Time difference of 3.848248 mins
+[1] 291
+Time difference of 3.747857 mins
+[1] 292
+Time difference of 3.836623 mins
+[1] 293
+Time difference of 3.738276 mins
+[1] 294
+Time difference of 3.754353 mins
+[1] 295
+Time difference of 3.587708 mins
+[1] 296
+Time difference of 3.743984 mins
+[1] 297
+Time difference of 3.776549 mins
+[1] 298
+Time difference of 3.806578 mins
+[1] 299
+Time difference of 3.79243 mins
+[1] 300
+Time difference of 3.787233 mins
+[1] 301
+Time difference of 3.825568 mins
+[1] 302
+Time difference of 3.863179 mins
+[1] 303
+Time difference of 3.746561 mins
+[1] 304
+Time difference of 3.845772 mins
+[1] 305
+Time difference of 3.81854 mins
+[1] 306
+Time difference of 3.76505 mins
+[1] 307
+Time difference of 3.805408 mins
+[1] 308
+Time difference of 3.738365 mins
+[1] 309
+Time difference of 3.701521 mins
+[1] 310
+Time difference of 3.802923 mins
+[1] 311
+Time difference of 3.818799 mins
+[1] 312
+Time difference of 3.719225 mins
+[1] 313
+Time difference of 3.814873 mins
+[1] 314
+Time difference of 3.770439 mins
+[1] 315
+Time difference of 3.789495 mins
+[1] 316
+Time difference of 3.766699 mins
+[1] 317
+Time difference of 3.710829 mins
+[1] 318
+Time difference of 3.880616 mins
+[1] 319
+Time difference of 3.759715 mins
+[1] 320
+Time difference of 3.813769 mins
+[1] 321
+Time difference of 3.71804 mins
+[1] 322
+Time difference of 3.613876 mins
+[1] 323
+Time difference of 3.728796 mins
+[1] 324
+Time difference of 3.763858 mins
+[1] 325
+Time difference of 3.764649 mins
+[1] 326
+Time difference of 3.708201 mins
+[1] 327
+Time difference of 3.694932 mins
+[1] 328
+Time difference of 3.733215 mins
+[1] 329
+Time difference of 3.698908 mins
+[1] 330
+[1] "mais uma run successful :)"
+Time difference of 3.669262 mins
+[1] 331
+Time difference of 3.637006 mins
+[1] 332
+Time difference of 3.795828 mins
+[1] 333
+Time difference of 3.772211 mins
+[1] 334
+Time difference of 3.785946 mins
+[1] 335
+Time difference of 3.738623 mins
+[1] 336
+Time difference of 3.672084 mins
+[1] 337
+Time difference of 3.763203 mins
+[1] 338
+Time difference of 3.742088 mins
+[1] 339
+Time difference of 3.792832 mins
+[1] 340
+Time difference of 3.783353 mins
+[1] 341
+Time difference of 3.711943 mins
+[1] 342
+Time difference of 3.729142 mins
+[1] 343
+Time difference of 3.720762 mins
+[1] 344
+Time difference of 3.672096 mins
+[1] 345
+Time difference of 3.779674 mins
+[1] 346
+[1] "mais uma run successful :)"
+Time difference of 3.789412 mins
+[1] 347
+Time difference of 3.760235 mins
+[1] 348
+Time difference of 3.733482 mins
+[1] 349
+Time difference of 3.733684 mins
+[1] 350
+Time difference of 3.757878 mins
+[1] 351
+Time difference of 3.775948 mins
+[1] 352
+Time difference of 3.798669 mins
+[1] 353
+Time difference of 3.927453 mins
+[1] 354
+Time difference of 3.848047 mins
+[1] 355
+Time difference of 3.668987 mins
+[1] 356
+Time difference of 3.767788 mins
+[1] 357
+Time difference of 3.651692 mins
+[1] 358
+Time difference of 3.585007 mins
+[1] 359
+Time difference of 3.797385 mins
+[1] 360
+Time difference of 3.695987 mins
+[1] 361
+Time difference of 3.795792 mins
+[1] 362
+Time difference of 3.867486 mins
+[1] 363
+Time difference of 3.935316 mins
+[1] 364
+Time difference of 3.828824 mins
+[1] 365
+Time difference of 3.794557 mins
+[1] 366
+Time difference of 3.633781 mins
+[1] 367
+Time difference of 3.706797 mins
+[1] 368
+Time difference of 3.761773 mins
+[1] 369
+Time difference of 3.784045 mins
+[1] 370
+Time difference of 3.826232 mins
+[1] 371
+Time difference of 3.831695 mins
+[1] 372
+Time difference of 3.595364 mins
+[1] 373
+Time difference of 3.693171 mins
+[1] 374
+Time difference of 3.88504 mins
+[1] 375
+Time difference of 3.820512 mins
+[1] 376
+Time difference of 3.844983 mins
+[1] 377
+Time difference of 3.716406 mins
+[1] 378
+Time difference of 3.69433 mins
+[1] 379
+Time difference of 3.749936 mins
+[1] 380
+Time difference of 3.6894 mins
+[1] 381
+Time difference of 3.667818 mins
+[1] 382
+Time difference of 3.713333 mins
+[1] 383
+Time difference of 3.747628 mins
+[1] 384
+Time difference of 3.774902 mins
+[1] 385
+Time difference of 3.845852 mins
+[1] 386
+Time difference of 3.791352 mins
+[1] 387
+Time difference of 3.868393 mins
+[1] 388
+Time difference of 3.817458 mins
+[1] 389
+Time difference of 3.74421 mins
+[1] 390
+Time difference of 3.795263 mins
+[1] 391
+Time difference of 3.68458 mins
+[1] 392
+Time difference of 3.664112 mins
+[1] 393
+Time difference of 3.640627 mins
+[1] 394
+[1] "mais uma run successful :)"
+Time difference of 3.716459 mins
+[1] "nr of iterations to perform:"
+[1] 10
+[1] "nr of runs executed:"
+[1] 394
+[1] "nr of unsuccessful runs:"
+[1] 384
+[1] "genes selected with the nr of iterations they were selected:"
+       POLD1     C18orf25        MAST1        SURF6       TSEN54    C14orf118 
+          10           10           10           10           10           10 
+        BBS7     C19orf76        POLE3      C2orf60      C9orf80       QTRTD1 
+          10           10           10           10           10           10 
+      RANBP6        SYNJ1       ZNF189          HN1 LOC100272146        REXO4 
+          10           10           10           10           10           10 
+      ITGA2B        NAPSA      SLC23A3       ZNF749        TIAL1          RPE 
+          10           10           10           10           10           10 
+       AGAP6     KIAA1958     C9orf102        OXSR1         COMT      FAM169B 
+          10           10           10           10           10            9 
+      AKAP8L        LARP7        ZFP37    ARHGAP11B         SMC2    C14orf129 
+           9            9            9            9            9            9 
+     TNFRSF8          YY1        HELLS        THRSP       KBTBD8        RAB14 
+           9            9            9            9            9            9 
+       WDR82       ZBTB26        ESCO1      TMEM38B       ZNF165         LHX5 
+           9            9            8            8            8            8 
+      ZNF330        ORC2L       FBXO47        TRUB2         INE1     SIGLEC16 
+           8            6            5            5            5            5 
+      MRPL30       ZNF335 
+           5            5 
+[1] "---------------------------------------------------------"
+[1] "average nr of genes selected in successful runs:"
+nr.selected.genes 
+             57.3 
+[1] "standard deviation of the average nr of genes selected in successful runs:"
+nr.selected.genes 
+         13.52072 
+[1] "----- PVALUE TRAIN --------------------------------------"
+[1] "average pvalue train in successful runs:"
+pvalue.train 
+  0.05551016 
+[1] "standard deviation of the average pvalue train:"
+pvalue.train 
+  0.02360835 
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in statistically significant successful runs:"
+pvalue.train 
+ 0.002169488 
+[1] "nr of statistically significant pvalue train successful runs:"
+[1] 1
+[1] "---------------------------------------------------------"
+[1] "average pvalue train in NON-statistically significant successful runs:"
+pvalue.train 
+   0.0614369 
+[1] "nr of NON-statistically significant pvalue train successful runs:"
+[1] 9
+[1] "----- PVALUE TEST --------------------------------------"
+[1] "average pvalue test in successful runs:"
+pvalue.test 
+  0.1428098 
+[1] "standard deviation of the average pvalue test:"
+pvalue.test 
+0.003553744 
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in statistically significant successful runs:"
+[1] NA
+[1] "nr of statistically significant pvalue test successful runs:"
+[1] 0
+[1] "---------------------------------------------------------"
+[1] "average pvalue test in NON-statistically significant successful runs:"
+pvalue.test 
+  0.1428098 
+[1] "nr of NON-statistically significant pvalue test successful runs:"
+[1] 10
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue train:"
+$weights.used
+[1] "w"
+
+$alpha
+[1] 0.1
+
+$nr.selected.genes
+[1] 81
+
+$list.of.genes
+ [1] "ACY3"         "AGAP6"        "AKAP8L"       "BBS7"         "C14orf118"   
+ [6] "C14orf129"    "C17orf85"     "C18orf25"     "C19orf45"     "C19orf76"    
+[11] "C2orf60"      "C5orf55"      "C9orf102"     "C9orf80"      "CCNK"        
+[16] "COMT"         "DBF4"         "DDX27"        "ELF2"         "ESCO1"       
+[21] "FAM169B"      "FBXO47"       "GLRX5"        "GTF2H1"       "HDX"         
+[26] "HELLS"        "HN1"          "INE1"         "ITGA2B"       "KBTBD8"      
+[31] "KIAA1958"     "LARP7"        "LHX5"         "LOC100272146" "LRSAM1"      
+[36] "MAPK1"        "MARS2"        "MAST1"        "MRPL30"       "NAPSA"       
+[41] "NBAS"         "NUP98"        "OXSR1"        "PAPOLA"       "POLD1"       
+[46] "POLE2"        "POLE3"        "QTRTD1"       "RAB14"        "RAB33A"      
+[51] "RANBP6"       "REXO4"        "RPE"          "RPSAP9"       "SDR16C5"     
+[56] "SFRS2"        "SIGLEC16"     "SLC23A3"      "SMN1"         "SMNDC1"      
+[61] "SURF6"        "SYNJ1"        "TEKT5"        "THRSP"        "TIAL1"       
+[66] "TMEM38B"      "TNFRSF8"      "TRUB2"        "TSEN54"       "UBR4"        
+[71] "WDR44"        "WDR82"        "XRCC3"        "YY1"          "ZFP37"       
+[76] "ZNF165"       "ZNF189"       "ZNF330"       "ZNF335"       "ZNF70"       
+[81] "ZNF749"      
+
+$pvalue.train
+[1] 0.002169488
+
+$pvalue.test
+[1] 0.1457114
+
+$iteration.nr
+[1] 330
+
+$cindex.train
+[1] 0.9280125
+
+$cindex.test
+[1] 0.6065574
+
+[1] "---------------------------------------------------------"
+[1] "iteration with the lowest pvalue test:"
+$weights.used
+[1] "w"
+
+$alpha
+[1] 0.1
+
+$nr.selected.genes
+[1] 56
+
+$list.of.genes
+ [1] "AGAP6"        "AKAP8L"       "ARHGAP11B"    "BBS7"         "C14orf118"   
+ [6] "C14orf129"    "C18orf25"     "C19orf76"     "C2orf60"      "C9orf102"    
+[11] "C9orf80"      "COMT"         "ESCO1"        "FAM169B"      "FBXO47"      
+[16] "HELLS"        "HN1"          "INE1"         "ITGA2B"       "KBTBD8"      
+[21] "KIAA1958"     "LARP7"        "LHX5"         "LOC100272146" "MAST1"       
+[26] "MRPL30"       "NAPSA"        "ORC2L"        "OXSR1"        "POLD1"       
+[31] "POLE3"        "QTRTD1"       "RAB14"        "RANBP6"       "REXO4"       
+[36] "RPE"          "SIGLEC16"     "SLC23A3"      "SMC2"         "SURF6"       
+[41] "SYNJ1"        "THRSP"        "TIAL1"        "TMEM38B"      "TNFRSF8"     
+[46] "TRUB2"        "TSEN54"       "WDR82"        "YY1"          "ZBTB26"      
+[51] "ZFP37"        "ZNF165"       "ZNF189"       "ZNF330"       "ZNF335"      
+[56] "ZNF749"      
+
+$pvalue.train
+[1] 0.05743827
+
+$pvalue.test
+[1] 0.1384573
+
+$iteration.nr
+[1] 71
+
+$cindex.train
+[1] 0.8748044
+
+$cindex.test
+[1] 0.5901639
+
+[1] "----- C-INDEX TRAIN --------------------------------------"
+[1] "average c-index train in successful runs:"
+cindex.train 
+   0.8745696 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 10
+[1] "standard deviation of the average c-index train:"
+cindex.train 
+  0.03081403 
+[1] "----- C-INDEX TEST --------------------------------------"
+[1] "average c-index test in successful runs:"
+cindex.test 
+  0.5836066 
+[1] "iterations accounted for the average calculation (not NA):"
+[1] 10
+[1] "standard deviation of the average c-index test:"
+cindex.test 
+ 0.02099385 
+[1] "---------------------------------------------------------"
+[1] "FINISHED PROGRAM ..................................................................."
+[1] "TIME TO EXECUTE EVERYTHING"
+Time difference of 1.037716 days

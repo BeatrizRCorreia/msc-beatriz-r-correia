@@ -61,5 +61,9 @@ Another remark is that there are four genes that were selected at least half of 
 The best model attained had a p-value in the test set of 0.138457 and is highlighted in Table 4.24. It was for alpha 0.1 and the corresponding survival curve for this iteration is in the figure below the table mentioned.
 
 <p align="center">
+  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/table3_PRAD.png" alt="table3_PRAD" width="750"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/tcox_prad_w_bestmodel.png" alt="Best TCox model PRAD" width="500"/>
 </p>

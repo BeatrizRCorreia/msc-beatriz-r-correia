@@ -13,19 +13,19 @@ Then, the correlation matrix for each of the two datasets is computed and the di
 The values are normalized by the maximum value so that they become between zero and one and the final distribution of the weights for every gene can be seen on the histogram below.
 
 <p align="center">
-  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/histogram_weights.png" alt="histogram_weights" width="750"/>
+  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/histogram_weights.png" alt="histogram_weights" width="350"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/histogram_weights.png" alt="histogram_weights" width="700"/>
+  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/histogram_weights.png" alt="histogram_weights" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/histogram_weights.png" alt="histogram_weights" width="650"/>
+  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/histogram_weights.png" alt="histogram_weights" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/histogram_weights.png" alt="histogram_weights" width="600"/>
+  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/survival-methods/tcox/histogram_weights.png" alt="histogram_weights" width="500"/>
 </p>
 
 The information about each iteration execution saves the same eight fields already described but instead of the "measure" with the cross-validation measure (for the initial models), and in substitution of the "min.degree" for the *glmSparseNet* models, this one saves the description of the weights being used and is named **weights.used**. The weights were applied directly, thus w is saved in that field (if the inverse of the weights was being tested, 1/w could be saved in this field).

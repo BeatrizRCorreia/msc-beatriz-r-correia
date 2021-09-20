@@ -2,7 +2,7 @@
 ___
 > ### BRCA data
 
-One of the TCGA datasets downloaded is from the breast invasive carcinoma study (BRCA is the study abbreviation).
+One of the TCGA datasets downloaded from the [curatedTCGAData](https://bioconductor.org/packages/release/data/experiment/html/curatedTCGAData.html) (version 1.12.0, Bioconductor) is from the breast invasive carcinoma study (BRCA is the study abbreviation).
 
 This study includes 14 experiments, from which the RNASeq2GeneNorm-20160128 experiment was selected. This experiment was chosen because it has gene mRNA abundance obtained using RNA-Seq data. The data is upper quartile normalized in RSEM TPM gene expression values. Then, the primary solid tumour assay (sample type code 01) was chosen. A fraction of the four csv files that were downloaded can be seen in Tables 4.1, 4.2, 4.3 and 4.4. There are 20501 genes.
 

@@ -6,43 +6,48 @@ ___
 
 The materials presented in this repository are organized in three folders:
 
-* **data folder** with the two datasets that were used:
-    * **BRCA_primary_solid_tumor folder** with the breast data files:
+* ``data`` folder with the two datasets that were used:
+    * ``BRCA_primary_solid_tumor`` folder with the breast data files:
         * ``data2_01_BRCA_RNASeq2GeneNorm-20160128_transposed.csv``
         * ``data2_01_BRCA_RNASeq2GeneNorm-20160128.csv``
         * ``data2_colData.csv``
         * ``data2_META_0.csv``
         * ``data2_sampleMap.csv``
-    * **PRAD_primary_solid_tumor folder** with the prostate data:
+    * ``PRAD_primary_solid_tumor`` folder with the prostate data:
         * ``data2_01_PRAD_RNASeq2GeneNorm-20160128_transposed.csv``
         * ``data2_01_PRAD_RNASeq2GeneNorm-20160128.csv``
         * ``data2_colData.csv``
         * ``data2_META_0.csv``
         * ``data2_sampleMap.csv``
 
-* **survival-methods folder** with one folder for each of the Survival Analysis Statistical Methods used:
-    * **elasticnet-cox folder** with the following content:
+* ``survival-methods`` folder with one folder for each of the Survival Analysis Statistical Methods used:
+    * ``elasticnet-cox`` folder with the following content:
         * ``elasticnetcox.R``
-        * **results folder**
+        * ``results`` folder
+        * ``README.md``
         * some README.md figures
-    * **hubcox folder** with the following content:
+    * ``hubcox`` folder with the following content:
         * ``hubcox.R``
-        * **results folder**
+        * ``results`` folder
+        * ``README.md``
         * some README.md figures
-    * **orphancox folder** with the following content:
+    * ``orphancox folder`` with the following content:
         * ``orphancox.R``
-        * **results folder**
+        * ``results`` folder
+        * ``README.md``
         * some README.md figures
-    * **rsf folder** with the following content:
+    * ``rsf`` folder with the following content:
         * ``rsf.py``
-        * **results folder**
+        * ``results`` folder
+        * ``README.md``
         * some README.md figures
-    * **tcox folder** with the following content:
+    * ``tcox`` folder with the following content:
         * ``tcox.R``
-        * **results folder**
+        * ``results`` folder
+        * ``README.md``
         * some README.md figures
 
-* **other-functions folder** with the following files:
+* ``other-functions`` folder with the following files:
     * ``auxiliary_functions.R``
     * ``chat_tool_figures.R``
     * ``extract-dataset.R``
@@ -53,11 +58,11 @@ ___
 In Table 4.31 can be seen the alpha values that allowed to obtain between 44 and 50 genes extracted at least half of the runs. These genes, also presented in that table were combined in the Venn diagram below.
 
 <p align="center">
-  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/all_models_table.png" alt="all_models_table" width="400"/>
+  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/all_models_table.png" alt="all_models_table" width="550"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/venn_diagram.png" alt="venn_diagram" width="550"/>
+  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/venn_diagram.png" alt="venn_diagram" width="400"/>
 </p>
 
 The biomarkers obtained from the TCox fitted to the BRCA data and fitted to the PRAD data have no gene in common, for this reason and for simplification the genes from the two sets are combined in TCox area from the diagram (total of 94 genes).
@@ -107,6 +112,7 @@ Counts of hallmarks association with the 50 genes selected by the **Random Survi
 <p align="center">
   <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/hallmarks_rsf.png" alt="hallmarks_rsf" width="700"/>
 </p>
+
 ___
 ### How to run the code in this repository
 

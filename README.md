@@ -2,7 +2,7 @@
 
 ## Survival analysis of transcriptomic high-dimensional oncological data for the identification of cancer biomarkers
 ___
-### Repository content
+> ### Repository content
 
 The materials presented in this repository are organized in three folders:
 
@@ -13,7 +13,7 @@ The materials presented in this repository are organized in three folders:
         * ``data2_colData.csv``
         * ``data2_META_0.csv``
         * ``data2_sampleMap.csv``
-    * ``PRAD_primary_solid_tumor`` folder with the prostate data:
+    * ``PRAD_primary_solid_tumor`` folder with the prostate data files:
         * ``data2_01_PRAD_RNASeq2GeneNorm-20160128_transposed.csv``
         * ``data2_01_PRAD_RNASeq2GeneNorm-20160128.csv``
         * ``data2_colData.csv``
@@ -53,7 +53,7 @@ The materials presented in this repository are organized in three folders:
     * ``extract-dataset.R``
     * ``venndiagram.R``
 ___
-### Model comparison in terms of biomarkers selected
+> ### Model comparison in terms of biomarkers selected
 
 In Table 4.31 can be seen the alpha values that allowed to obtain between 44 and 50 genes extracted at least half of the runs. These genes, also presented in that table were combined in the Venn diagram below.
 
@@ -114,9 +114,9 @@ Counts of hallmarks association with the 50 genes selected by the **Random Survi
 </p>
 
 ___
-### How to run the code in this repository
+> ### How to run the code in this repository
 
-**Linux environment instructions to run the files.**
+**Linux environment instructions to run the files**
 
 To execute the **ElasticNet-Cox model**:
 

@@ -58,7 +58,7 @@ ___
 In Table 4.31 can be seen the alpha values that allowed to obtain between 44 and 50 genes extracted at least half of the runs. These genes, also presented in that table were combined in the Venn diagram below.
 
 <p align="center">
-  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/all_models_table.png" alt="all_models_table" width="550"/>
+  <img src="https://github.com/BeatrizRCorreia/msc-beatriz-r-correia/blob/main/all_models_table.png" alt="all_models_table" width="650"/>
 </p>
 
 <p align="center">
